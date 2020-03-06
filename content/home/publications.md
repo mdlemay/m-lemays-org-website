@@ -66,6 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+#{{% alert note %}}
+#Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+#{{% /alert %}}
+
+Featured publications.  For a full publication listing, see my [LinkedIn profile](https://www.linkedin.com/in/lemaymd/).
