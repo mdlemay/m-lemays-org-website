@@ -66,6 +66,3 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Featured publications.  For a full publication listing, see my [LinkedIn profile](https://www.linkedin.com/in/lemaymd/).
-{{% /alert %}}
