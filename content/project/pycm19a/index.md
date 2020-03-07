@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Python X10 CM19A driver (unofficial)"
-summary: "Unofficial driver for the X10 CM19A remote control interface in Python"
+summary: "Unofficial driver for the X10 CM19A remote control interface in Python, now maintained by Burns Fisher."
 authors: [admin]
 tags: []
 categories: []
