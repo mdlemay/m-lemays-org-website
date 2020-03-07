@@ -5,7 +5,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 75  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
 title = "Professional Service and Volunteering"
 subtitle = ""
@@ -77,4 +77,4 @@ Conference and workshop reviews:
  - 2006 ACM Workshop on Privacy in the Electronic Society (WPES)
 
 Volunteering:
- - Computer Science Category Judge at [NWSE Beaverton Hillsboro Science Expo](http://beavhillsciexpo.weebly.com/)
+ - Computer Science Category Judge at 2020 [NWSE Beaverton Hillsboro Science Expo](http://beavhillsciexpo.weebly.com/)
