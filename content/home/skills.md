@@ -16,16 +16,41 @@ subtitle = ""
 
 [[feature]]
   name = "C/C++"
+  description = "App, kernel, and hypervisor development for Linux, Windows, and embedded systems with Boost and generics experience"
   
-[[feature]]
-  name = "Python"
-
 [[feature]]
   name = "Rust"
 
 [[feature]]
   name = "Maude"
-  description = "Model checker based on Term-Rewriting Systems and Linear-Temporal Logic"
+  description = "Model checker based on Term-Rewriting Systems and Linear-Temporal Logic (trained by Prof. José Meseguer)"
+
+[[feature]]
+  name = "Isabelle/HOL"
+  description = "Interactive theorem prover (trained by Prof. Elsa Gunter)"
+
+[[feature]]
+  name = "Isabelle/HOL"
+  description = "Interactive theorem prover (trained by Prof. Elsa Gunter)"
+
+[[feature]]
+  name = "Python"
+
+[[feature]]
+  name = "LLVM/Clang"
+  description = "Compiler framework"
+
+[[feature]]
+  name = "Verilog/VHDL"
+  description = "Experience using Intel Quartus and Xilinx Vivado FPGA toolchains.  Experience using Synopsys VCS and Mentor Graphics Modelsim simulators.  Experience extending and maintaining an in-house Verilog simulator during an internship with Cray, Inc."
+
+[[feature]]
+  name = "Bluespec SystemVerilog"
+  description = "High-Level Synthesis (HLS) language based on Term-Rewriting Systems"
+
+[[feature]]
+  name = "Prolog"
+  description = "Logic programming language"
 
 # [[feature]]
 #   icon = "camera-retro"
