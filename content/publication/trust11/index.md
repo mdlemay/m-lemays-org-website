@@ -22,7 +22,7 @@ publication_short: "TRUST"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Extended a processor core written in VHDL with hardware support for detecting attempts to execute unverified code.  Developed an integrity kernel and network server to enforce code whitelisting using processor extensions.  Evaluated using an FPGA."
 
 tags: []
 categories: []

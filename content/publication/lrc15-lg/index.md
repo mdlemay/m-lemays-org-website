@@ -22,7 +22,7 @@ publication_short: "Logic, Rewriting, and Concurrency"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "We developed a Network-on-Chip (NoC) firewall in Bluespec SystemVerilog configured by a dedicated core, and we demonstrated how it can enforce isolation between two instances of Linux on separate cores.  We developed a shallow embedding of a subset of Bluespec into Maude, since both languages are based on term rewriting systems, and we used a Maude model of the NoC firewall to precisely identify a subtle vulnerability."
 
 tags: []
 categories: []

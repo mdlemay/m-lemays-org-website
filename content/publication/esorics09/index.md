@@ -22,7 +22,7 @@ publication_short: "ESORICS"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Developed kernel for flash MCUs that continuously monitors firmware controlling each microcontroller and reports to remote parties, using Elliptic Curve Cryptography to authenticate the audit log.  Kernel provides fault-tolerance using mechanisms that were formally verified using the Maude model checker."
 
 tags: []
 categories: []
