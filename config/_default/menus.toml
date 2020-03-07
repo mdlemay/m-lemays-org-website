@@ -25,7 +25,7 @@
 
 [[main]]
   name = "Patents"
-  url = "#featured"
+  url = "#patents"
   weight = 50
 
 [[main]]
