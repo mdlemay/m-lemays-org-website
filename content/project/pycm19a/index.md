@@ -6,10 +6,10 @@ summary: "Unofficial driver for the X10 CM19A remote control interface in Python
 authors: [admin]
 tags: []
 categories: []
-date: {{ .Date }}
+date: 2017-01-16
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/mdlemay/x10pantilt"
+external_link: "https://github.com/burnsfisher/x10pantilt"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
