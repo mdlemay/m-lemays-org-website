@@ -31,11 +31,11 @@ subtitle = ""
 
 [[feature]]
   name = "Maude"
-  description = "Model checker based on Term-Rewriting Systems and Linear-Temporal Logic (trained by Prof. José Meseguer)"
+  description = "Model checker based on Term-Rewriting Systems and Linear-Temporal Logic"
 
 [[feature]]
   name = "Isabelle/HOL"
-  description = "Interactive theorem prover (trained by Prof. Elsa Gunter)"
+  description = "Interactive theorem prover"
 
 [[feature]]
   name = "Python"
