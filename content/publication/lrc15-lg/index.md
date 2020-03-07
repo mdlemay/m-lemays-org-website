@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Network-on-Chip Firewall: Countering Defective and Malicious System-on-Chip Hardware"
-authors: ["LeMay M.", "Gunter C.A."]
+authors: ["Michael LeMay", "Carl A. Gunter"]
 date: 2015-08-27
 doi: "https://doi.org/10.1007/978-3-319-23165-5_19"
 
