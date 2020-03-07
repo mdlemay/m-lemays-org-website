@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "http://seclab.illinois.edu/wp-content/uploads/2014/12/YangSKLAH14.pdf"
 url_code:
 url_dataset:
 url_poster:

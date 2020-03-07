@@ -36,12 +36,12 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "http://seclab.illinois.edu/wp-content/uploads/2011/06/LeMayG11-TRUST.pdf"
 url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: "http://seclab.illinois.edu/wp-content/uploads/2012/03/LeMayG11-TRUST.ppt"
 url_source:
 url_video:
 

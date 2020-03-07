@@ -26,7 +26,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
@@ -36,12 +36,12 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: "http://seclab.illinois.edu/wp-content/uploads/2011/09/FatemiehLG11.pdf"
 url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: "http://seclab.illinois.edu/wp-content/uploads/2011/12/ACSAC11.ppt"
 url_source:
 url_video:
 
