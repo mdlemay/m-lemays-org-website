@@ -90,4 +90,3 @@ Published patent applications:
 1. [15/282,954: Enforcing memory operand types using protection keys](https://patents.google.com/patent/US20180095902A1/en)
 1. [15/273,286: Access control](https://patents.google.com/patent/US20180082057A1/en)
 1. [15/201,018: Regulating control transfers for execute-only code execution](https://patents.google.com/patent/US20180004946A1/en)
-1. 
