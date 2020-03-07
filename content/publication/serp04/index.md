@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "assets/static/ftpr.pdf"
+url_pdf: "ftpr.pdf"
 url_code:
 url_dataset:
 url_poster:
