@@ -22,7 +22,7 @@ publication_short: "HICSS"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Price-responsive electrical demand-response system, e.g. for laptops and air conditioners, with multiple loci of control."
 
 tags: []
 categories: []
