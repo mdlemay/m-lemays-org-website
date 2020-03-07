@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Using Intel MPX to harden SafeStack"
-summary: "Configuring bounds registers and instrumenting code to help prevent corruption of the safe stacks"
+summary: "Configuring bounds registers and extending LLVM and Clang to instrument code to help prevent corruption of the safe stacks."
 authors: [admin]
 tags: []
 categories: []
