@@ -25,6 +25,7 @@ date_format = "Jan 2006"
   date_start = "2012-06-04"
   date_end = ""
   description = """
+I define and evaluate innovative security architectures for mitigating exploits and malware.  I draw on my expertise in architecture, compilers, operating systems, virtualization, HW/SW co-design, and formal methods to effectively devise solutions that are well-adapted to workload requirements.
   """
 
 [[experience]]

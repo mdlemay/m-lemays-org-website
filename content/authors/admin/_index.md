@@ -23,6 +23,9 @@ bio: ""
 interests:
 - Formal specification and verification
 - Compiler-based security hardening
+- Anti-malware techniques
+- Computer architecture
+- Operating systems and virtualization
 
 education:
   courses:
@@ -66,4 +69,4 @@ email: ""
 #- Visitors
 ---
 
-Research Scientist with a focus on memory management architectures for security incorporating compiler-based hardening and formal methods.
+Research Scientist with a focus on memory management architectures for security.

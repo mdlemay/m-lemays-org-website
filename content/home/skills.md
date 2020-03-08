@@ -19,6 +19,10 @@ subtitle = ""
   description = "App, kernel, and hypervisor development for Linux, Windows, and embedded systems with Boost and generics experience"
   
 [[feature]]
+  name = "X86 Assembly"
+  description = "Somewhat familar with assembly language for other architectures as well"
+  
+[[feature]]
   name = "LLVM/Clang"
   description = "Compiler framework"
 
