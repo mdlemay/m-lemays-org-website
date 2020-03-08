@@ -80,7 +80,6 @@ Issued patents:
 1. [7,774,411 (2010): Secure electronic message transport protocol](https://patents.google.com/patent/US7774411B2/en)
 
 Published patent applications:
-1. [16/657,669: Memory scanning methods and apparatus](https://patents.google.com/patent/US20200050764A1/en)
 1. [16/024,259: Protection of keys and sensitive data from attack within microprocessor architecture](https://patents.google.com/patent/US20200007332A1/en)
 1. [16/024,257: Memory tagging for side-channel defense, memory safety, and sandboxing](https://patents.google.com/patent/US20190042799A1/en)
 1. [16/024,547: Encoded inline capabilities](https://patents.google.com/patent/US20200004953A1/en)
@@ -88,10 +87,8 @@ Published patent applications:
 1. [16/218,908: Technologies for object-oriented memory management with extended segmentation](https://patents.google.com/patent/US20190121964A1/en)
 1. [15/721,082: Crypto-enforced capabilities for isolation](https://patents.google.com/patent/US20190102567A1/en)
 1. [15/721,553: Installing and manipulating a secure virtual machine image through an untrusted hypervisor](https://patents.google.com/patent/US20190102539A1/en)
-1. [16/185,944: Cryptographic operations for secure page mapping in a virtual machine environment](https://patents.google.com/patent/US20190095649A1/en)
 1. [15/713,573: Methods and arrangements to determine physical resource assignments](https://patents.google.com/patent/US20190095796A1/en)
 1. [16/040,193: System, method and apparatus for automatic program compartmentalization](https://patents.google.com/patent/US20190050558A1/en)
-1. [15/966,358: Technologies for control flow exploit mitigation using processor trace](https://patents.google.com/patent/US20190050566A1/en)
 1. [16/024,089: Techniques to provide function-level isolation with capability-based security](https://patents.google.com/patent/US20190044971A1/en)
 1. [15/663,223: Auxiliary processor resources](https://patents.google.com/patent/US20190034350A1/en)
 1. [15/629,458: Hardened safe stack for return oriented programming attack mitigation](https://patents.google.com/patent/US20180373871A1/en)
