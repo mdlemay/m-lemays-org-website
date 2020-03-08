@@ -84,7 +84,6 @@ Published patent applications:
 1. [16/024,257: Memory tagging for side-channel defense, memory safety, and sandboxing](https://patents.google.com/patent/US20190042799A1/en)
 1. [16/024,547: Encoded inline capabilities](https://patents.google.com/patent/US20200004953A1/en)
 1. [15/859,142: Apparatus and method for pausing processor trace for efficient analysis](https://patents.google.com/patent/US20190205238A1/en)
-1. [16/218,908: Technologies for object-oriented memory management with extended segmentation](https://patents.google.com/patent/US20190121964A1/en)
 1. [15/721,082: Crypto-enforced capabilities for isolation](https://patents.google.com/patent/US20190102567A1/en)
 1. [15/721,553: Installing and manipulating a secure virtual machine image through an untrusted hypervisor](https://patents.google.com/patent/US20190102539A1/en)
 1. [15/713,573: Methods and arrangements to determine physical resource assignments](https://patents.google.com/patent/US20190095796A1/en)
