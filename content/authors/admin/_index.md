@@ -29,7 +29,7 @@ education:
   - course: MS, PhD, and Postdoc in Computer Science
     institution: University of Illinois at Urbana-Champaign
     year: 2012
-  - course: BSc in Computer Science
+  - course: BS in Computer Science
     institution: University of Wisconsin-Eau Claire
     year: 2005
 
