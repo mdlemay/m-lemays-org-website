@@ -26,7 +26,7 @@ summary: "Developed kernel for flash MCUs that continuously monitors firmware co
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
