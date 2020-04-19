@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: []
 date: 2020-04-18
-lastmod: 2020-04-18
+lastmod: 2020-04-19
 featured: false
 draft: false
 
@@ -90,7 +90,7 @@ space to grow them all at once, so we rotate through these along with trying new
  - Cucurbits
    - Sour Gherkins
  - Husk cherries
-   - Goldie
+   - Goldie (A recommendation from someone who I met while walking past the community gardens in Bethany Lake Park.)
  - Lettuce (important to pick varieties that resist bitterness)
    - Green romaine
    - Red oak leaf
@@ -115,6 +115,7 @@ space to grow them all at once, so we rotate through these along with trying new
    - Cherry
      - Indigo Cherry
      - Mountain Magic
+       - This, Defiant, and Plum Regal were all developed recently at UW-Madison.
      - Yellow Cherry
    - Mid-size
      - Defiant
@@ -153,3 +154,10 @@ space to grow them all at once, so we rotate through these along with trying new
   - These get quite tall and keep flowering late into Fall.
 - American giant sunflowers
   - Very tall!  We even managed to harvest some of the seeds last year before the squirrels.
+- Hardy Fuchsia
+  - This is a favorite for hummingbirds.
+- Rosemary
+  - The previous owners planted this, and it helps to sustain over-wintering hummingbirds with its bountiful blossoms that appear early in the year.  The whole family really enjoys it on grilled cheese, too.
+- Artichoke
+  - This may seem a better fit for the vegetable section, but the flowers are so stunning that I don't harvest them for food.  It's especially fun to watch bumblebees crawl through these. ![Artichoke blossom](img/artichoke.jpg)
+  
