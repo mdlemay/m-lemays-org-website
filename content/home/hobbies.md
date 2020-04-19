@@ -48,6 +48,6 @@ subtitle = ""
 
  - Run commuting
  - [Commuting by Onewheel](https://www.facebook.com/wtaoregon/photos/a.206282599906/10157772840194907/?type=3)
- - Gardening ![](img/passionflower.jpg)
- - Camping, hiking, and backpacking ![](img/2019-12-29-lake.jpg)
+ - Gardening ![Passionflower](img/passionflower.jpg)
+ - Camping, hiking, and backpacking ![Coffenbury lake](img/2019-12-29-lake.jpg)
  

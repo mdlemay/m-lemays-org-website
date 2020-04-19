@@ -27,9 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-# Suburban gardening
-
-My family and I have been cultivating our backyard in a suburb of Portland, Oregon for nearly a decade.
+My family and I have been cultivating our backyard in a suburb of Portland, Oregon for eight years.
 I grew up in central Wisconsin pulling weeds from rows of beans and strawberries, and my wife was a patio
 gardener during her childhood and in grad school.  We enjoyed growing a tray of culinary herbs together in our apartment as
 newlyweds while finishing grad school.  The University of Illinois has a long agricultural legacy, and we enjoyed touring the student-run farm during our time there.  We were excited to expand to backyard
@@ -145,3 +143,13 @@ space to grow them all at once, so we rotate through these along with trying new
    - Some red summer-bearing variety
  - Strawberries
    - Delizz (day-neutral variety so that it produces much of the year)
+
+### Flowers
+- Passionflower ![Passionflower](img/passionflower.jpg)
+  - I haven't yet succeeded in keeping it alive longer than a couple of years, though.
+  - I have harvested a few passionfruits, but our yard doesn't have the carpenter bees that are
+    needed for them to produce full fruits,  Instead, each fruit had only a few developed seeds.
+- African marigold
+  - These get quite tall and keep flowering late into Fall.
+- American giant sunflowers
+  - Very tall!  We even managed to harvest some of the seeds last year before the squirrels.
