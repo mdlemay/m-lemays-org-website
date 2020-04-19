@@ -18,7 +18,7 @@ organizations:
   url: "https://www.intel.com/content/www/us/en/research/overview.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "#IamIntel"
 
 interests:
 - Formal specification and verification
