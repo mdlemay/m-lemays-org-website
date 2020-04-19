@@ -145,7 +145,7 @@ space to grow them all at once, so we rotate through these along with trying new
    - Delizz (day-neutral variety so that it produces much of the year)
 
 ### Flowers
-- Passionflower ![Passionflower](img/passionflower.jpg)
+- Passionflower ![Passionflower](../../img/passionflower.jpg)
   - I haven't yet succeeded in keeping it alive longer than a couple of years, though.
   - I have harvested a few passionfruits, but our yard doesn't have the carpenter bees that are
     needed for them to produce full fruits,  Instead, each fruit had only a few developed seeds.
