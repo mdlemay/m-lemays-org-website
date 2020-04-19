@@ -16,8 +16,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Ladybug on fennel blossom"
+  focal_point: "Smart"
   preview_only: false
 
 # Projects (optional).
@@ -90,7 +90,7 @@ space to grow them all at once, so we rotate through these along with trying new
  - Cucurbits
    - Sour Gherkins
  - Husk cherries
-   - Goldie (A recommendation from someone who I met while walking past the community gardens in Bethany Lake Park.)
+   - Goldie (A recommendation from someone who I met while walking past the community gardens in Bethany Lake Park.) ![Husk cherry pie](img/husk-cherry-pie.jpg)
  - Lettuce (important to pick varieties that resist bitterness)
    - Green romaine
    - Red oak leaf
@@ -130,7 +130,6 @@ space to grow them all at once, so we rotate through these along with trying new
    - Ardenberry (purchased directly from its namesake, the former county extension agent for our area, Mr. Arden, at the Tualitin Valley Garden Club sale)
    - Obsidian
    - Triple Crown thornless
- - Feijoa/Pineapple Guava (it doesn't fruit here, but we enjoy eating the sweet-tasting flower petals)
  - Fig
    - Brown Turkey
  - Goji
@@ -146,6 +145,8 @@ space to grow them all at once, so we rotate through these along with trying new
    - Delizz (day-neutral variety so that it produces much of the year)
 
 ### Flowers
+- Feijoa/Pineapple Guava ![Feijoa blossom](img/feijoa.jpg)
+  - This doesn't fruit here, but we enjoy eating the sweet-tasting flower petals.
 - Passionflower ![Passionflower](../../img/passionflower.jpg)
   - I haven't yet succeeded in keeping it alive longer than a couple of years, though.
   - I have harvested a few passionfruits, but our yard doesn't have the carpenter bees that are
@@ -160,4 +161,3 @@ space to grow them all at once, so we rotate through these along with trying new
   - The previous owners planted this, and it helps to sustain over-wintering hummingbirds with its bountiful blossoms that appear early in the year.  The whole family really enjoys it on grilled cheese, too.
 - Artichoke
   - This may seem a better fit for the vegetable section, but the flowers are so stunning that I don't harvest them for food.  It's especially fun to watch bumblebees crawl through these. ![Artichoke blossom](img/artichoke.jpg)
-  
