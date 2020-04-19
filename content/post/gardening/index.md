@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-My family and I have been cultivating our backyard in a suburb of Portland, Oregon for eight years.
+My family and I have been cultivating our backyard (and front yard) garden in a suburb of Portland, Oregon, for eight years.
 I grew up in central Wisconsin pulling weeds from rows of beans and strawberries, and my wife was a patio
 gardener during her childhood and in grad school.  We enjoyed growing a tray of culinary herbs together in our apartment as
 newlyweds while finishing grad school.  The University of Illinois has a long agricultural legacy, and we enjoyed touring the student-run farm during our time there.  We were excited to expand to backyard
@@ -35,11 +35,11 @@ gardening as soon as we purchased a house. Growing space was one of the main cri
 
 A fun aspect of backyard gardening is the ability to grow unusual and heirloom varieties of plants that are
 too delicate or esoteric for stores to stock.  We grow both a vegetable garden as well as a small "orchard"
-with a wide variety of fruits.  This also has the benefit of spacing out harvests based on when each type of fruit ripens.  The mild weather West of the Cascades opens up a wide selection of fruit
+with a wide variety of fruits.  This also has the benefit of spacing out harvests based on when each type of fruit ripens.  The mild weather west of the Cascades opens up a wide selection of fruit
 trees and vines.  This was especially exciting for me having grown up browsing garden nursery
 catalogs and realizing how few types of fruits can tolerate Wisconsin's winters.
 
-Local garden nurseries offer many vegetable seedlings, but we grow most of our plants from seed to gain
+Local garden nurseries offer many vegetable seedlings, but we grow most of our plants from seed (starting them in our garage) to gain
 access to an even wider assortment and to minimize costs.  A heating mat seems to increase germination rates
 (e.g. https://territorialseed.com/products/heat-mat-electra-grow), and we use a grow light to make up for a
 dearth of sunny windowsills in our house (e.g. https://www.homedepot.com/p/ViaVolt-2-ft-4-Bulb-T5-High-Output-Copper-Fluorescent-Grow-Light-Fixture-V24/202985194).  I like to support our local seed suppliers such as https://territorialseed.com/, but I still also put in orders to another one
@@ -131,7 +131,7 @@ space to grow them all at once, so we rotate through these along with trying new
    - Triple Crown thornless
  - Feijoa/Pineapple Guava (it doesn't fruit here, but we enjoy eating the sweet-tasting flower petals)
  - Fig
-   - Brown turkey
+   - Brown Turkey
  - Goji
  - Honeyberries
  - Kiwi
