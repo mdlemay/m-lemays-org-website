@@ -67,3 +67,4 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+DBLP Entry: https://dblp.org/rec/conf/csreaSAM/LeMayT06
