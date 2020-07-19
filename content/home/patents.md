@@ -50,6 +50,7 @@ subtitle = ""
 +++
 
 Issued patents:
+1. [10,642,752 (2020): Auxiliary processor resources](https://patents.google.com/patent/US10642752B2/en)
 1. [10,558,582 (2020): Technologies for execute only transactional memory](https://patents.google.com/patent/US10558582B2/en)
 1. [10,515,023 (2019): System for address mapping and translation protection](https://patents.google.com/patent/US10515023B2/en)
 1. [10,503,664 (2019): Virtual machine manager for address mapping and translation protection](https://patents.google.com/patent/US10503664B2/en)
@@ -80,6 +81,7 @@ Issued patents:
 1. [7,774,411 (2010): Secure electronic message transport protocol](https://patents.google.com/patent/US7774411B2/en)
 
 Published patent applications:
+1. [WO2020096639: Function as a Service (FaaS) System Enhancements](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020096639)
 1. [16/024,259: Protection of keys and sensitive data from attack within microprocessor architecture](https://patents.google.com/patent/US20200007332A1/en)
 1. [16/024,257: Memory tagging for side-channel defense, memory safety, and sandboxing](https://patents.google.com/patent/US20190042799A1/en)
 1. [16/024,547: Encoded inline capabilities](https://patents.google.com/patent/US20200004953A1/en)
@@ -89,7 +91,6 @@ Published patent applications:
 1. [15/713,573: Methods and arrangements to determine physical resource assignments](https://patents.google.com/patent/US20190095796A1/en)
 1. [16/040,193: System, method and apparatus for automatic program compartmentalization](https://patents.google.com/patent/US20190050558A1/en)
 1. [16/024,089: Techniques to provide function-level isolation with capability-based security](https://patents.google.com/patent/US20190044971A1/en)
-1. [15/663,223: Auxiliary processor resources](https://patents.google.com/patent/US20190034350A1/en)
 1. [15/629,458: Hardened safe stack for return oriented programming attack mitigation](https://patents.google.com/patent/US20180373871A1/en)
 1. [15/282,954: Enforcing memory operand types using protection keys](https://patents.google.com/patent/US20180095902A1/en)
 1. [15/273,286: Access control](https://patents.google.com/patent/US20180082057A1/en)
