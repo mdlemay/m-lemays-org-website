@@ -19,15 +19,22 @@ subtitle = ""
   description = "App, kernel, and hypervisor development for Linux, Windows, and embedded systems with Boost and generics experience"
   
 [[feature]]
+  name = "Rust"
+
+[[feature]]
+  name = "Go"
+
+[[feature]]
+  name = "SMT-LIB / Z3"
+  description = "SAT/SMT solver (completed [Coursera course](https://coursera.org/verify/6ZWWW76MLMB5))"
+
+[[feature]]
   name = "X86 Assembly"
   description = "Somewhat familar with assembly language for other architectures as well"
   
 [[feature]]
   name = "LLVM/Clang"
   description = "Compiler framework"
-
-[[feature]]
-  name = "Rust"
 
 [[feature]]
   name = "Bluespec SystemVerilog"
