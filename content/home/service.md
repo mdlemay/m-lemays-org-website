@@ -65,6 +65,7 @@ Journal reviews:
  - 2005 ACM Transactions on Information and System Security (TISSEC)
 
 Conference and workshop reviews:
+ - 2021 Design Automation Conference (DAC)
  - 2013 IEEE PowerTech
  - 2009 International Conference on Distributed Computing Systems (ICDCS)
  - 2009 IEEE Symposium on Security and Privacy (Oakland)
