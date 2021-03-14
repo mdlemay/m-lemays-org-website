@@ -78,4 +78,4 @@ Conference and workshop reviews:
  - 2006 ACM Workshop on Privacy in the Electronic Society (WPES)
 
 Volunteering:
- - Computer Science Category Judge at 2020 [NWSE Beaverton Hillsboro Science Expo](http://beavhillsciexpo.weebly.com/)
+ - Computer Science Category Judge at 2020 & 2021 [NWSE Beaverton Hillsboro Science Expo](http://beavhillsciexpo.weebly.com/)
