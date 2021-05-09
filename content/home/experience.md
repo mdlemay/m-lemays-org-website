@@ -1,52 +1,58 @@
-+++
-# Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+---
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: experience
 
-title = "Experience"
-subtitle = ""
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: Experience
+subtitle:
 
 # Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
 # Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Senior Staff Research Scientist"
-  company = "Intel Labs"
-  company_url = "https://www.intel.com/content/www/us/en/research/overview.html"
-  location = "Oregon"
-  date_start = "2012-06-04"
-  date_end = ""
-  description = """
-I define and evaluate innovative security architectures for mitigating exploits and malware.  I draw on my expertise in architecture, compilers, operating systems, virtualization, HW/SW co-design, and formal methods to effectively devise solutions that are well-adapted to workload requirements.
-  """
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+experience:
+  - title: Senior Staff Research Scientist
+    company: Intel Labs
+    company_url: 'https://www.intel.com/content/www/us/en/research/overview.html'
+    company_logo: ''
+    location: Oregon
+    date_start: '2012-06-04'
+    date_end: ''
+    description: |2-
+        I define and evaluate innovative security architectures for mitigating exploits and malware.  I draw on my expertise in architecture, compilers, operating systems, virtualization, HW/SW co-design, and formal methods to effectively devise solutions that are well-adapted to workload requirements.
 
-[[experience]]
-  title = "PhD Student and Postdoc"
-  company = "University of Illinois at Urbana-Champaign"
-  company_url = "http://seclab.illinois.edu/"
-  location = "Illinois"
-  date_start = "2005-09-01"
-  date_end = "2012-05-15"
-  description = """
-Advisor: [Carl A. Gunter](http://cgunter.cs.illinois.edu/)
+  - title: PhD Student and Postdoc
+    company: University of Illinois at Urbana-Champaign
+    company_url: 'http://seclab.illinois.edu/'
+    company_logo: ''
+    location: Illinois
+    date_start: '2005-09-01'
+    date_end: '2012-05-15'
+    description: |2-
+        Advisor: [Carl A. Gunter](http://cgunter.cs.illinois.edu/)
 
-National Defense Science and Engineering Graduate (NDSEG) Fellow
+        National Defense Science and Engineering Graduate (NDSEG) Fellow
 
-PhD Dissertation: [Compact Integrity-Aware Architectures](http://hdl.handle.net/2142/26037)
+        PhD Dissertation: [Compact Integrity-Aware Architectures](http://hdl.handle.net/2142/26037)
 
-MS Thesis: [Dependable Emergency-Response Networking Based on Retaskable Network Infrastructures](http://seclab.illinois.edu/wp-content/uploads/2011/03/LeMayMSThesis.pdf)
+        MS Thesis: [Dependable Emergency-Response Networking Based on Retaskable Network Infrastructures](http://seclab.illinois.edu/wp-content/uploads/2011/03/LeMayMSThesis.pdf)
 
-TA for Advanced Computer Security (Instructor: Carl A. Gunter)
+        TA for Advanced Computer Security (Instructor: Carl A. Gunter)
 
-TA for Advanced Operating Systems (Instructor: Samuel T. King)
-  """
+        TA for Advanced Operating Systems (Instructor: Samuel T. King)
 
-+++
+
+design:
+  columns: '2'
+---

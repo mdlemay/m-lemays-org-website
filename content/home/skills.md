@@ -1,68 +1,56 @@
-+++
-# A Skills section created with the Featurette widget.
-widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+---
+# An instance of the Featurette widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: featurette
 
-title = "Skills"
-subtitle = ""
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 80
+
+title: Skills
+subtitle:
 
 # Showcase personal skills or business features.
-# 
-# Add/remove as many `[[feature]]` blocks below as you like.
-# 
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# - Add/remove as many `feature` blocks below as you like.
+# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+feature:
+- description: App, kernel, and hypervisor development for Linux, Windows, and embedded systems with Boost and generics experience
+#  icon: r-project
+#  icon_pack: fab
+  name: C/C++
+- name: Rust
+- name: Go
+- description: SAT/SMT solver (completed [Coursera course](https://coursera.org/verify/6ZWWW76MLMB5))
+  name: SMT-LIB / Z3
+- description: Somewhat familiar with assembly language for other architectures as well
+  name: X86 Assembly
+- description: Compiler framework
+  name: LLVM/Clang
+- description: High-Level Synthesis (HLS) language based on Term-Rewriting Systems
+  name: Bluespec SystemVerilog
+- description: Model checker based on Term-Rewriting Systems and Linear-Temporal Logic
+  name: Maude
+- description: Interactive theorem prover
+  name: Isabelle/HOL
+- name: Python
+- description: Experience using Intel Quartus and Xilinx Vivado FPGA toolchains.  Experience using Synopsys VCS and Mentor Graphics Modelsim simulators.  Experience extending and maintaining an in-house Verilog simulator during an internship with Cray, Inc.
+  name: Verilog/VHDL
+- description: Logic programming language
+  name: Prolog
 
-[[feature]]
-  name = "C/C++"
-  description = "App, kernel, and hypervisor development for Linux, Windows, and embedded systems with Boost and generics experience"
-  
-[[feature]]
-  name = "Rust"
+# Uncomment to use emoji icons.
+#- icon: ":smile:"
+#  icon_pack: "emoji"
+#  name: "Emojiness"
+#  description: "100%"  
 
-[[feature]]
-  name = "Go"
-
-[[feature]]
-  name = "SMT-LIB / Z3"
-  description = "SAT/SMT solver (completed [Coursera course](https://coursera.org/verify/6ZWWW76MLMB5))"
-
-[[feature]]
-  name = "X86 Assembly"
-  description = "Somewhat familar with assembly language for other architectures as well"
-  
-[[feature]]
-  name = "LLVM/Clang"
-  description = "Compiler framework"
-
-[[feature]]
-  name = "Bluespec SystemVerilog"
-  description = "High-Level Synthesis (HLS) language based on Term-Rewriting Systems"
-
-[[feature]]
-  name = "Maude"
-  description = "Model checker based on Term-Rewriting Systems and Linear-Temporal Logic"
-
-[[feature]]
-  name = "Isabelle/HOL"
-  description = "Interactive theorem prover"
-
-[[feature]]
-  name = "Python"
-
-[[feature]]
-  name = "Verilog/VHDL"
-  description = "Experience using Intel Quartus and Xilinx Vivado FPGA toolchains.  Experience using Synopsys VCS and Mentor Graphics Modelsim simulators.  Experience extending and maintaining an in-house Verilog simulator during an internship with Cray, Inc."
-
-[[feature]]
-  name = "Prolog"
-  description = "Logic programming language"
-
-# [[feature]]
-#   icon = "camera-retro"
-#   icon_pack = "fas"
-#   name = "Photography"
-#   description = "10%"
-
-+++
+# Uncomment to use custom SVG icons.
+# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
+# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+#- icon: "your-custom-icon-name"
+#  icon_pack: "custom"
+#  name: "Surfing"
+#  description: "90%"
+---

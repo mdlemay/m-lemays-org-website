@@ -1,25 +1,22 @@
 ---
 # Display name
-name: Michael LeMay
-
-# Username (this should match the folder name)
-authors:
-- admin
+title: Michael LeMay
 
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
+# Role/position/tagline
 role: Senior Staff Research Scientist
 
-# Organizations/Affiliations
+# Organizations/Affiliations to show in About widget
 organizations:
 - name: Intel Labs
-  url: "https://www.intel.com/content/www/us/en/research/overview.html"
+  url: https://www.intel.com/content/www/us/en/research/overview.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: "#IamIntel"
 
+# Interests to show in About widget
 interests:
 - Formal specification and verification
 - Compiler-based security hardening
@@ -27,6 +24,7 @@ interests:
 - Computer architecture
 - Operating systems and virtualization
 
+# Education to show in About widget
 education:
   courses:
   - course: MS, PhD, and Postdoc in Computer Science
@@ -39,12 +37,15 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: google-scholar
+  link: '/#contact'
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+- icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fab` icon pack
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=c7kQkOQAAAAJ
 - icon: github
@@ -53,20 +54,19 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lemaymd/
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: files/cv.pdf
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-#user_groups:
-#- Researchers
-#- Visitors
+# Highlight the author in author lists? (true/false)
+highlight_name: true
 ---
 
 Research Scientist with a focus on memory management architectures for security.
