@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Isolation Without Taxation: Near Zero Cost Transitions for SFI"
-authors: ["Michael LeMay", "Carl A. Gunter"]
+authors: ["Matthew Kolosick", "Shravan Narayan", "Conrad Watt", "Michael LeMay", "Deepak Garg", "Ranjit Jhala", "Deian Stefan"]
 date: 2021-06-21
 doi: "https://arxiv.org/abs/2105.00033"
 
@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Workshop on Foundations of Computer Security"
-publication_short: "FCS"
+publication_short: "Foundations of Computer Security"
 
 abstract: ""
 
