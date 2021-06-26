@@ -50,7 +50,9 @@ subtitle = ""
 +++
 
 Issued patents:
-1. [10,884,952 (2021): Enforcing memory operand types using protection keys (Google Patents link may not yet be available)](https://patents.google.com/patent/US10884952B2/en)
+1. [11,036,850 (2021): Technologies for object-oriented memory management with extended segmentation](https://patents.google.com/patent/US11036850B2/en)
+1. [11,030,113 (2021): Apparatus and method for efficient process-based compartmentalization](https://patents.google.com/patent/US11030113B2/en)
+1. [10,884,952 (2021): Enforcing memory operand types using protection keys](https://patents.google.com/patent/US10884952B2/en)
 1. [10,860,709 (2020): Encoded inline capabilities](https://patents.google.com/patent/US10860709B2/en)
 1. [10,795,997 (2020): Hardened safe stack for return oriented programming attack mitigation](https://patents.google.com/patent/US10795997B2/en)
 1. [10,785,028 (2020): Protection of keys and sensitive data from attack within microprocessor architecture](https://patents.google.com/patent/US10785028B2/en)
