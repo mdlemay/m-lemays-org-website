@@ -50,6 +50,7 @@ subtitle = ""
 +++
 
 Issued patents:
+1. [11,080,401 (2021): Memory scanning methods and apparatus](https://patents.google.com/patent/US11080401B2/en)
 1. [11,036,850 (2021): Technologies for object-oriented memory management with extended segmentation](https://patents.google.com/patent/US11036850B2/en)
 1. [11,030,113 (2021): Apparatus and method for efficient process-based compartmentalization](https://patents.google.com/patent/US11030113B2/en)
 1. [10,884,952 (2021): Enforcing memory operand types using protection keys](https://patents.google.com/patent/US10884952B2/en)
@@ -89,6 +90,8 @@ Issued patents:
 1. [7,774,411 (2010): Secure electronic message transport protocol](https://patents.google.com/patent/US7774411B2/en)
 
 Published patent applications:
+1. [17/314,349: TECHNOLOGY TO CONTROL SYSTEM CALL INVOCATIONS WITHIN A SINGLE ADDRESS SPACE](https://patents.google.com/patent/US20210264020A1/en)
+1. [17/255,588: FUNCTION AS A SERVICE (FAAS) SYSTEM ENHANCEMENTS](https://patents.google.com/patent/US20210263779A1/en)
 1. [16/998,913: PROTECTION OF KEYS AND SENSITIVE DATA FROM ATTACK WITHIN MICROPROCESSOR ARCHITECTURE](https://patents.google.com/patent/US20200382303A1/en)
 1. [16/998,912: SECURITY CHECK SYSTEMS AND METHODS FOR MEMORY ALLOCATIONS](https://patents.google.com/patent/US20200379902A1/en)
 1. [16/862,022: MEMORY WRITE FOR OWNERSHIP ACCESS IN A CORE](https://patents.google.com/patent/US20200257827A1/en)
