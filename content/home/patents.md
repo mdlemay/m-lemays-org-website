@@ -50,6 +50,9 @@ subtitle = ""
 +++
 
 Issued patents:
+1. [11,171,983 (2021): Techniques to provide function-level isolation with capability-based security](https://patents.google.com/patent/US11171983B2/en)
+1. [11,163,569 (2021): Hardware apparatuses, methods, and systems for individually revocable capabilities for enforcing temporal memory safety](https://patents.google.com/patent/US11163569B2/en)
+1. [11,144,479 (2021): System for address mapping and translation protection](https://patents.google.com/patent/US11144479B2/en)
 1. [11,080,401 (2021): Memory scanning methods and apparatus](https://patents.google.com/patent/US11080401B2/en)
 1. [11,036,850 (2021): Technologies for object-oriented memory management with extended segmentation](https://patents.google.com/patent/US11036850B2/en)
 1. [11,030,113 (2021): Apparatus and method for efficient process-based compartmentalization](https://patents.google.com/patent/US11030113B2/en)
@@ -110,6 +113,5 @@ Published patent applications:
 1. [15/721,553: Installing and manipulating a secure virtual machine image through an untrusted hypervisor](https://patents.google.com/patent/US20190102539A1/en)
 1. [15/713,573: Methods and arrangements to determine physical resource assignments](https://patents.google.com/patent/US20190095796A1/en)
 1. [16/040,193: System, method and apparatus for automatic program compartmentalization](https://patents.google.com/patent/US20190050558A1/en)
-1. [16/024,089: Techniques to provide function-level isolation with capability-based security](https://patents.google.com/patent/US20190044971A1/en)
 1. [15/273,286: Access control](https://patents.google.com/patent/US20180082057A1/en)
 1. [15/201,018: Regulating control transfers for execute-only code execution](https://patents.google.com/patent/US20180004946A1/en)
