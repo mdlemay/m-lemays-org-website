@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Isolation Without Taxation: Near Zero Cost Transitions for SFI"
+title: "Isolation Without Taxation: Near Zero Cost Transitions for SFI (workshop version)"
 authors: ["Matthew Kolosick", "Shravan Narayan", "Conrad Watt", "Michael LeMay", "Deepak Garg", "Ranjit Jhala", "Deian Stefan"]
 date: 2021-06-21
 doi: ""
