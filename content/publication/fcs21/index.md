@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Isolation Without Taxation: Near Zero Cost Transitions for SFI (workshop version)"
+title: "Isolation Without Taxation: Near Zero Cost Transitions for SFI"
 authors: ["Matthew Kolosick", "Shravan Narayan", "Conrad Watt", "Michael LeMay", "Deepak Garg", "Ranjit Jhala", "Deian Stefan"]
 date: 2021-06-21
-doi: ""
+doi: "10.1145/3498688"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: {{ .Date }}
@@ -13,10 +13,10 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Workshop on Foundations of Computer Security"
+publication: "Workshop on Foundations of Computer Security and arXiv preprint"
 publication_short: "Foundations of Computer Security"
 
 abstract: ""
@@ -26,7 +26,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
