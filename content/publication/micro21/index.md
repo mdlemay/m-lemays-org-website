@@ -4,7 +4,7 @@
 title: "Cryptographic Capability Computing"
 authors: ["Michael LeMay", "Joydeep Rakshit", "Sergej Deutsch", "David M. Durham", "Santosh Ghosh", "Anant Nori", "Jayesh Gaur", "Andrew Weiler", "Salmin Sultana", "Karanvir Grewal", "Sreenivas Subramoney"]
 date: 2021-10-19
-doi: ""
+doi: "10.1145/3466752.3480076"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: {{ .Date }}
@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://doi.org/10.1145/3466752.3480076"
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
