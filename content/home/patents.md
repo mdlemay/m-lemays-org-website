@@ -50,6 +50,7 @@ subtitle = ""
 +++
 
 Issued patents:
+1. [11,188,639 (2021): System, method and apparatus for automatic program compartmentalization](https://patents.google.com/patent/US11188639B2/en)
 1. [11,171,983 (2021): Techniques to provide function-level isolation with capability-based security](https://patents.google.com/patent/US11171983B2/en)
 1. [11,163,569 (2021): Hardware apparatuses, methods, and systems for individually revocable capabilities for enforcing temporal memory safety](https://patents.google.com/patent/US11163569B2/en)
 1. [11,144,479 (2021): System for address mapping and translation protection](https://patents.google.com/patent/US11144479B2/en)
