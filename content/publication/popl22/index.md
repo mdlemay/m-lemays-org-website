@@ -3,7 +3,7 @@
 
 title: "Isolation Without Taxation: Near Zero Cost Transitions for WebAssembly and SFI"
 authors: ["Matthew Kolosick", "Shravan Ravi Narayan", "Evan Johnson", "Conrad Watt", "Michael LeMay", "Deepak Garg", "Ranjit Jhala", "Deian Stefan"]
-date: 
+date: 2021-12-05
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "49th ACM SIGPLAN Symposium on Principles of Programming Languages"
-publication_short: "POPL (to appear)"
+publication_short: "POPL (to appear in January 2022)"
 
 abstract: ""
 
