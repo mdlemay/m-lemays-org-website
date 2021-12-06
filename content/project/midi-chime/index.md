@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "HTTP-controlled MIDI Alert Bell Connected Via Ethernet"
+title: "HTTP-controlled MIDI alert bell connected via Ethernet"
 summary: "Based on Contiki OS with the lightweight X86 protection domain support that I implemented."
 authors: [admin]
 tags: []

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "FPGA-Powered Candy Dispenser"
+title: "FPGA-powered candy dispenser"
 summary: "Touchless dispensing with a photoresistor sensor and a PWM-controlled servo"
 authors: [admin]
 tags: []

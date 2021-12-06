@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "X86 Lightweight Protection Domain Support for Contiki"
+title: "X86 lightweight protection domain support for Contiki"
 summary: "Memory management based on paging, software-switched segments, or hardware task switching."
 authors: [admin]
 tags: []
