@@ -35,6 +35,7 @@ feature:
 - description: Interactive theorem prover
   name: Isabelle/HOL
 - name: Python
+- name: Java
 - description: Experience using Intel Quartus and Xilinx Vivado FPGA toolchains.  Experience using Synopsys VCS and Mentor Graphics Modelsim simulators.  Experience extending and maintaining an in-house Verilog simulator during an internship with Cray, Inc.
   name: Verilog/VHDL
 - description: Logic programming language
