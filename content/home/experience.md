@@ -32,6 +32,8 @@ experience:
     description: |2-
         I define and evaluate innovative security architectures for mitigating exploits and malware.  I draw on my expertise in architecture, compilers, operating systems, virtualization, HW/SW co-design, and formal methods to effectively devise solutions that are well-adapted to workload requirements.
 
+        Co-lead liaison from Intel for the [SRC JUMP CONIX](https://conix.io) research center.
+
   - title: PhD Student and Postdoc
     company: University of Illinois at Urbana-Champaign
     company_url: 'http://seclab.illinois.edu/'
