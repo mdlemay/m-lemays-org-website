@@ -77,5 +77,10 @@ Conference and workshop reviews:
  - 2006 IFIP International Conference on Critical Infrastructure Protection (ICCIP)
  - 2006 ACM Workshop on Privacy in the Electronic Society (WPES)
 
+Selected Mentoring Experiences:
+ - Summer 2021: Two mentees within [inaugural Princeton/Intel Research Experience for Undergraduates (REU) summer program](https://ece.princeton.edu/news/princeton-and-intel-join-forces-create-more-inclusive-research-career-pipeline).
+ - 2020-present: High schooler and author of [introductory book on cryptography](https://www.kgw.com/article/news/local/beaverton-student-publishes-book-on-cryptography/283-b00c6f67-79c5-4d60-990a-6e43ae94f863).
+ - 2018-present: Multiple mentees within official intra-Intel mentoring program.
+
 Volunteering:
  - Computer Science Category Judge at 2020 & 2021 [NWSE Beaverton Hillsboro Science Expo](http://beavhillsciexpo.weebly.com/)
