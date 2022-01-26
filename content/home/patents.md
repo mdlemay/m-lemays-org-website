@@ -50,6 +50,8 @@ subtitle = ""
 +++
 
 Issued patents:
+1. [11,222,127 (2022): Processor hardware and instructions for SHA3 cryptographic operations](https://patents.google.com/patent/US11222127B2/en)
+1. [11,216,366 (2022): Security check systems and methods for memory allocations](https://patents.google.com/patent/US11216366B2/en)
 1. [11,188,639 (2021): System, method and apparatus for automatic program compartmentalization](https://patents.google.com/patent/US11188639B2/en)
 1. [11,171,983 (2021): Techniques to provide function-level isolation with capability-based security](https://patents.google.com/patent/US11171983B2/en)
 1. [11,163,569 (2021): Hardware apparatuses, methods, and systems for individually revocable capabilities for enforcing temporal memory safety](https://patents.google.com/patent/US11163569B2/en)
@@ -94,10 +96,11 @@ Issued patents:
 1. [7,774,411 (2010): Secure electronic message transport protocol](https://patents.google.com/patent/US7774411B2/en)
 
 Published patent applications:
+1. [17/485,213: OBJECT AND CACHELINE GRANULARITY CRYPTOGRAPHIC MEMORY INTEGRITY](https://patents.google.com/patent/US20220012188A1/en)
 1. [17/314,349: TECHNOLOGY TO CONTROL SYSTEM CALL INVOCATIONS WITHIN A SINGLE ADDRESS SPACE](https://patents.google.com/patent/US20210264020A1/en)
 1. [17/255,588: FUNCTION AS A SERVICE (FAAS) SYSTEM ENHANCEMENTS](https://patents.google.com/patent/US20210263779A1/en)
 1. [16/998,913: PROTECTION OF KEYS AND SENSITIVE DATA FROM ATTACK WITHIN MICROPROCESSOR ARCHITECTURE](https://patents.google.com/patent/US20200382303A1/en)
-1. [16/998,912: SECURITY CHECK SYSTEMS AND METHODS FOR MEMORY ALLOCATIONS](https://patents.google.com/patent/US20200379902A1/en)
+1. [16/912,378: COLLISION-FREE HASHING FOR ACCESSING CRYPTOGRAPHIC COMPUTING METADATA AND FOR CACHE EXPANSION](https://patents.google.com/patent/US20210406239A1/en)
 1. [16/862,022: MEMORY WRITE FOR OWNERSHIP ACCESS IN A CORE](https://patents.google.com/patent/US20200257827A1/en)
 1. [16/776,467: CRYPTOGRAPHIC COMPUTING ENGINE FOR MEMORY LOAD AND STORE UNITS OF A MICROARCHITECTURE PIPELINE](https://patents.google.com/patent/US20200169383A1/en)
 1. [16/740,359: CRYPTOGRAPHIC COMPUTING USING ENCRYPTED BASE ADDRESSES AND USED IN MULTI-TENANT ENVIRONMENTS](https://patents.google.com/patent/US20200201789A1/en)
@@ -107,7 +110,6 @@ Published patent applications:
 1. [16/723,468: BINDING OF CRYPTOGRAPHIC OPERATIONS TO CONTEXT OR SPECULATIVE EXECUTION RESTRICTIONS](https://patents.google.com/patent/US20200134234A1/en)
 1. [16/722,707: CRYPTOGRAPHIC COMPUTING USING ENCRYPTED BASE ADDRESSES AND USED IN MULTI-TENANT ENVIRONMENTS](https://patents.google.com/patent/US20200159676A1/en)
 1. [16/722,342: POINTER BASED DATA ENCRYPTION](https://patents.google.com/patent/US20200125501A1/en)
-1. [16/709,837: PROCESSOR HARDWARE AND INSTRUCTIONS FOR SHA3 CRYPTOGRAPHIC OPERATIONS](https://patents.google.com/patent/US20200117811A1/en)
 1. [WO2020096639: Function as a Service (FaaS) System Enhancements](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020096639)
 1. [16/024,257: Memory tagging for side-channel defense, memory safety, and sandboxing](https://patents.google.com/patent/US20190042799A1/en)
 1. [15/859,142: Apparatus and method for pausing processor trace for efficient analysis](https://patents.google.com/patent/US20190205238A1/en)
