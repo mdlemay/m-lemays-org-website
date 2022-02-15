@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Isolation Without Taxation: Near Zero Cost Transitions for WebAssembly and SFI"
+title: "Isolation without Taxation: Near-Zero-Cost Transitions for WebAssembly and SFI"
 authors: ["Matthew Kolosick", "Shravan Ravi Narayan", "Evan Johnson", "Conrad Watt", "Michael LeMay", "Deepak Garg", "Ranjit Jhala", "Deian Stefan"]
 date: 2021-12-05
-doi: ""
+doi: "https://doi.org/10.1145/3498688"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: {{ .Date }}
@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "49th ACM SIGPLAN Symposium on Principles of Programming Languages"
-publication_short: "POPL (to appear in January 2022)"
+publication_short: "POPL"
 
 abstract: ""
 
@@ -36,14 +36,14 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://cseweb.ucsd.edu/~dstefan/pubs/kolosick:2022:isolation.pdf"
+url_pdf: "https://dl.acm.org/doi/pdf/10.1145/3498688"
 url_code:
 url_dataset:
 url_poster:
 url_project:
 url_slides:
 url_source:
-url_video:
+url_video: "https://popl22.sigplan.org/details/POPL-2022-popl-research-papers/27/Isolation-without-Taxation-Near-Zero-Cost-Transitions-for-WebAssembly-and-SFI"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
