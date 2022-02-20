@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "An Integrated Architecture for Demand Response Communications and Control (best paper award)"
+title: "An Integrated Architecture for Demand Response Communications and Control (best paper award 🏆)"
 authors: ["Michael LeMay", "Rajesh Nelli", "George Gross", "Carl A. Gunter"]
 date: 2008-01-07
 doi: "https://doi.org/10.1109/HICSS.2008.60"
