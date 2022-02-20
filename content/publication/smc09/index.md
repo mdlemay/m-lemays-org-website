@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE International Conference on Systems, Man and Cybernetics"
-publication_short: ""
+publication_short: "Systems, Man and Cybernetics (SMC)"
 
 abstract: ""
 

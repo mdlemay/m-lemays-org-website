@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "10th ACM/IEEE International Conference on Information Processing in Sensor Networks"
-publication_short: "IPSN"
+publication_short: "Information Processing in Sensor Networks (IPSN)"
 
 abstract: ""
 

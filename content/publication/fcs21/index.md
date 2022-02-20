@@ -16,8 +16,8 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Workshop on Foundations of Computer Security and arXiv preprint"
-publication_short: "Foundations of Computer Security and arXiv preprint"
+publication: "Workshop on Foundations of Computer Security"
+publication_short: "Foundations of Computer Security (FCS)"
 
 abstract: ""
 

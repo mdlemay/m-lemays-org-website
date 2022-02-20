@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Intel Technology Journal"
-publication_short: "Intel Technology Journal"
+publication_short: "Intel Technology Journal (ITJ)"
 
 abstract: ""
 

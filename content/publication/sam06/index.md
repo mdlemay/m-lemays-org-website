@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "CSREA Security and Management"
-publication_short: "SAM"
+publication_short: "Security and Management (SAM)"
 
 abstract: ""
 

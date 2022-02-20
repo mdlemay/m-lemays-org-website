@@ -16,7 +16,7 @@ doi: "10.1109/TSG.2011.2174811"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Transactions on Smart Grid"
+publication: "IEEE Transactions on Smart Grid (ToSG)"
 publication_short: ""
 
 abstract: ""

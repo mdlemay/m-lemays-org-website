@@ -16,8 +16,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "HotNets"
-publication_short: ""
+publication: "Hot Topics in Networks"
+publication_short: "HotNets"
 
 abstract: ""
 

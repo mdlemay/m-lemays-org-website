@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Logic, Rewriting, and Concurrency"
-publication_short: "Logic, Rewriting, and Concurrency"
+publication_short: "Logic, Rewriting, and Concurrency (LRC)"
 
 abstract: ""
 

@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "14th European Symposium on Research in Computer Security"
-publication_short: "ESORICS"
+publication_short: "European Symposium on Research in Computer Security (ESORICS)"
 
 abstract: ""
 

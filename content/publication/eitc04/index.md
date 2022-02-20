@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Electro/Information Technology Conference"
-publication_short: "EIT"
+publication_short: "Electro/Information Technology (EIT)"
 
 abstract: ""
 

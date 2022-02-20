@@ -16,8 +16,8 @@ doi: "https://doi.org/10.1145/1266840.1266874"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "12th ACM symposium on Access control models and technologies"
-publication_short: "SACMAT"
+publication: "12th ACM Symposium on Access Control Models and Technologies"
+publication_short: "Symposium on Access Control Models and Technologies (SACMAT)"
 
 abstract: ""
 

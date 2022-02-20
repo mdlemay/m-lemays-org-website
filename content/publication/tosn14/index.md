@@ -16,7 +16,7 @@ doi: "https://doi.org/10.1145/2661639"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM Transactions on Sensor Networks"
+publication: "ACM Transactions on Sensor Networks (ToSN)"
 publication_short: ""
 
 abstract: ""

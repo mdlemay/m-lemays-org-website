@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "41st Hawaii International Conference on System Sciences"
-publication_short: "HICSS"
+publication_short: "Hawaii International Conference on System Sciences (HICSS)"
 
 abstract: ""
 

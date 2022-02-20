@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "27th Annual Computer Security Applications Conference"
-publication_short: "ACSAC"
+publication_short: "Annual Computer Security Applications Conference (ACSAC)"
 
 abstract: ""
 

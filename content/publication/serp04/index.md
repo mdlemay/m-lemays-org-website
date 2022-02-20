@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "CSREA Software Engineering Research and Practice"
-publication_short: "SERP"
+publication_short: "Software Engineering Research and Practice (SERP)"
 
 abstract: ""
 
