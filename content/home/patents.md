@@ -50,6 +50,7 @@ subtitle = ""
 +++
 
 Issued patents:
+1. [11,250,165 (2022): Binding of cryptographic operations to context or speculative execution restrictions](https://patents.google.com/patent/US11250165B2/en)
 1. [11,222,127 (2022): Processor hardware and instructions for SHA3 cryptographic operations](https://patents.google.com/patent/US11222127B2/en)
 1. [11,216,366 (2022): Security check systems and methods for memory allocations](https://patents.google.com/patent/US11216366B2/en)
 1. [11,188,639 (2021): System, method and apparatus for automatic program compartmentalization](https://patents.google.com/patent/US11188639B2/en)
@@ -107,7 +108,6 @@ Published patent applications:
 1. [16/724,105: MICROPROCESSOR PIPELINE CIRCUITRY TO SUPPORT CRYPTOGRAPHIC COMPUTING](https://patents.google.com/patent/US20200125769A1/en)
 1. [16/724,026: DATA ENCRYPTION BASED ON IMMUTABLE POINTERS](https://patents.google.com/patent/US20200125770A1/en)
 1. [16/723,977: CRYPTOGRAPHIC ISOLATION OF MEMORY COMPARTMENTS IN A COMPUTING ENVIRONMENT](https://patents.google.com/patent/US20200125742A1/en)
-1. [16/723,468: BINDING OF CRYPTOGRAPHIC OPERATIONS TO CONTEXT OR SPECULATIVE EXECUTION RESTRICTIONS](https://patents.google.com/patent/US20200134234A1/en)
 1. [16/722,707: CRYPTOGRAPHIC COMPUTING USING ENCRYPTED BASE ADDRESSES AND USED IN MULTI-TENANT ENVIRONMENTS](https://patents.google.com/patent/US20200159676A1/en)
 1. [16/722,342: POINTER BASED DATA ENCRYPTION](https://patents.google.com/patent/US20200125501A1/en)
 1. [WO2020096639: Function as a Service (FaaS) System Enhancements](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020096639)
