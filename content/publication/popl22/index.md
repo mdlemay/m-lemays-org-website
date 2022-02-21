@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "49th ACM SIGPLAN Symposium on Principles of Programming Languages"
-publication_short: "Principles of Programming Languages"
+publication_short: "Principles of Programming Languages (POPL)"
 
 abstract: ""
 
