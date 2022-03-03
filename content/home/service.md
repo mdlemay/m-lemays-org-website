@@ -83,4 +83,4 @@ Selected Mentoring Experiences:
  - 2018-present: Multiple mentees within official intra-Intel mentoring program.
 
 Volunteering:
- - Computer Science Category Judge at 2020 & 2021 [NWSE Beaverton Hillsboro Science Expo](http://beavhillsciexpo.weebly.com/)
+ - Computer Science Category Judge at 2020-2022 [NWSE Beaverton Hillsboro Science Expo](http://beavhillsciexpo.weebly.com/)
