@@ -103,6 +103,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lemaymd/
+- icon: rss
+  icon_pack: fas
+  link: https://m.lemays.org/index.xml
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
