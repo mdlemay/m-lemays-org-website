@@ -72,9 +72,9 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/mdlemay/academic-kickstart'
+    url: 'https://github.com/mdlemay/m-lemays-org-website'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle
