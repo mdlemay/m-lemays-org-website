@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    description: 'Michael LeMay'
+    twitter: 'lemaymd'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -37,12 +37,13 @@ header:
     logo:
       text: "Your Name"
 
+
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Michael LeMay.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -57,4 +58,4 @@ features:
   math:
     enable: false
   privacy_pack:
-    enable: false
+    enable: true

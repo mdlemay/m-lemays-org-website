@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Michael LeMay
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Michael LeMay
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Michael
+last_name: LeMay
 
 # Status emoji
-status:
-  icon: ☕️
+#status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,167 +20,137 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Senior Staff Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+- name: Intel Labs
+  url: https://www.intel.com/content/www/us/en/research/overview.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
+    url: '/#contact'
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/lemaymd
+  - icon: academicons/google-scholar  # Alternatively, use `graduation-cap` icon from `fab` icon pack
+    url: https://scholar.google.com/citations?user=c7kQkOQAAAAJ
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/mdlemay
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://www.linkedin.com/in/lemaymd/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0001-6206-9642
+
+# Short bio (displayed in user profile at end of posts)
+bio: "#IamIntel"
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Formal specification and verification
+- Compiler-based security hardening
+- Anti-malware techniques
+- Computer architecture
+- Operating systems and virtualization
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS, PhD, and Postdoc in Computer Science
+    institution: University of Illinois at Urbana-Champaign
+    date_start: 2005-08-24
+    date_end: 2012-05-31 # approximate date
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Advised by [Prof. Carl A. Gunter](http://cgunter.cs.illinois.edu/).
+      [National Defense Science and Engineering Graduate (NDSEG) Fellow](https://web.archive.org/web/20090412061630/http://www.uwec.edu/newsreleases/highlights/041305LeMay.htm).
+      PhD Dissertation: [Compact Integrity-Aware Architectures](https://www.ideals.illinois.edu/items/26240).
+      MS Thesis: [Dependable Emergency-Response Networking Based on Retaskable Network Infrastructures](http://seclab.illinois.edu/wp-content/uploads/2011/03/LeMayMSThesis.pdf).
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      text: 'PhD Dissertation'
+      url: 'https://www.ideals.illinois.edu/items/26240'
+  - course: BS in Computer Science
+    institution: University of Wisconsin-Eau Claire
+    date_start: 2000-09-05
+    date_end: 2005-05-21
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Senior Staff Research Scientist
+    company: Intel Labs
+    company_url: 'https://www.intel.com/content/www/us/en/research/overview.html'
     company_logo: ''
-    date_start: 2021-01-01
+    location: Oregon
+    date_start: '2012-06-04'
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    description: |
+        I define and evaluate innovative security architectures for mitigating exploits and malware.  I draw on my expertise in architecture, compilers, operating systems, virtualization, HW/SW co-design, and formal methods to effectively devise solutions that are well-adapted to workload requirements.
+
+        Co-lead liaison from Intel for the [SRC JUMP CONIX](https://conix.io) research center.
+
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/lemaymd
+- icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fab` icon pack
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=c7kQkOQAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mdlemay
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/lemaymd/
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
+      - description: App, kernel, and hypervisor development for Linux, Windows, and embedded systems with Boost and generics experience
+      #  icon: r-project
+      #  icon_pack: fab
+        name: C/C++
+      - name: Rust
+      - name: Go
+      - description: SAT/SMT solver (completed [Coursera course](https://coursera.org/verify/6ZWWW76MLMB5))
+        name: SMT-LIB / Z3
+      - description: Somewhat familiar with assembly language for other architectures as well
+        name: X86 Assembly
+      - description: Compiler framework
+        name: LLVM/Clang
+      - description: High-Level Synthesis (HLS) language based on Term-Rewriting Systems
+        name: Bluespec SystemVerilog
+      - description: Model checker based on Term-Rewriting Systems and Linear-Temporal Logic
+        name: Maude
+      - description: Interactive theorem prover
+        name: Isabelle/HOL
       - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: Java
+      - description: Experience using Intel Quartus and Xilinx Vivado FPGA toolchains.  Experience using Synopsys VCS and Mentor Graphics Modelsim simulators.  Experience extending and maintaining an in-house Verilog simulator during an internship with Cray, Inc.
+        name: Verilog/VHDL
+      - description: Logic programming language
+        name: Prolog
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+#  - title: Neural Networks and Deep Learning
+#    url: https://www.coursera.org/learn/neural-networks-deep-learning
+#    date: '2023-11-25'
+#    awarder: Coursera
+#    icon: coursera
+#    summary:
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Research Scientist with a focus on memory management architectures for security.
