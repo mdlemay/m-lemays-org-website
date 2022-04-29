@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: []
 tags: []
-categories: [home]
+categories: [personal]
 date: 2022-04-04
 lastmod: 2022-04-04
 featured: false

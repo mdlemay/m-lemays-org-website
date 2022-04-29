@@ -36,7 +36,7 @@ design:
   view: compact
   columns: '2'
 ---
-I post a mix of professional content and home/personal content on my website, and I categorize my posts accordingly. Separate RSS/Atom feeds are generated for each of those categories, and there is also a combined feed:
-* [Professional](https://m.lemays.org/category/work/index.xml) ([archive](https://m.lemays.org/category/work/))
-* [Home/personal](https://m.lemays.org/category/home/index.xml) ([archive](https://m.lemays.org/category/home/))
+I post a mix of professional content and personal content on my website, and I categorize my posts accordingly. Separate RSS/Atom feeds are generated for each of those categories, and there is also a combined feed:
+* [Professional](https://m.lemays.org/category/professional/index.xml) ([archive](https://m.lemays.org/category/professional/))
+* [Personal](https://m.lemays.org/category/personal/index.xml) ([archive](https://m.lemays.org/category/personal/))
 * [Combined](https://m.lemays.org/index.xml)

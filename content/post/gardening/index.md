@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors: []
 tags: []
-categories: [home]
+categories: [personal]
 date: 2020-04-18
 lastmod: 2020-04-19
 featured: false
