@@ -52,7 +52,7 @@ GitHub wikis can be viewed and edited directly in the browser without requiring 
 
 Admittedly, the GitHub graphical wiki editor is not a full WYSIWYG. Editing is only supported in text/code mode, and a separate preview tab is used to show the formatting. However, the formatting notation is human-readable so as to make editing the underlying code for each page more intuitive.
 
-That said, GitHub wikis are managed as human-readable and -editable files in a git repository, so team members also have the option of cloning that repository and editing it outside of the online tools.
+GitHub wikis are managed as human-readable and -editable files in a git repository, so team members also have the option of cloning that repository and editing it outside of the online tools.
 
 ## Integration with existing services that we already use in the project
 
