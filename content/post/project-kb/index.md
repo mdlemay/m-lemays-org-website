@@ -40,6 +40,7 @@ The main aspects that I considered are:
 6. Bibliography support
 7. Diagramming support
 8. Maintaining a logical history
+9. Data portability
 
 I'll cover the details of each of these below.
 
@@ -48,6 +49,8 @@ I'll cover the details of each of these below.
 Requiring specialized tools can be a barrier to participation for obvious reasons.
 
 GitHub wikis can be viewed and edited directly in the browser without requiring any additional tools.
+
+Admittedly, the GitHub graphical wiki editor is not a full WYSIWYG. Editing is only supported in text/code mode, and a separate preview tab is used to show the formatting. However, the formatting notation is human-readable so as to make editing the underlying code for each page more intuitive.
 
 That said, GitHub wikis are managed as human-readable and -editable files in a git repository, so team members also have the option of cloning that repository and editing it outside of the online tools.
 
@@ -96,3 +99,7 @@ However, at least GitHub supports pasting images into Asciidoc wiki pages. That 
 It is important to know the sources for each piece of information. For information derived from other linkable documents, that is the role of the bibliography. However, for information recorded during meetings, there is no previous document that can be linked. One approach would be to define bibliography entries specifying the meeting information, but that could become tedious.
 
 A relevant advantage of maintaining a wiki in git is that it allows grouping changes due to a meeting into a combined commit with a log message specifying the meeting information. Git allows looking up how any piece of content in a repository has been modified over time and viewing the associated commit log messages. However, this currently seems to require using offline tools directly on the underlying git repository. Conversely, it is also possible to quickly view in the repository history all of the changes that were introduced as a result of a specified meeting.
+
+## Data portability
+
+Asciidoc is a widely supported data format that is both human- and machine-readable.
