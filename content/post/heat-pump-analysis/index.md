@@ -5,8 +5,8 @@ title: "Adding a heat pump alongside a natural gas furnace"
 subtitle: ""
 summary: ""
 authors: []
-tags: [home]
-categories: []
+tags: []
+categories: [home]
 date: 2022-04-04
 lastmod: 2022-04-04
 featured: false
