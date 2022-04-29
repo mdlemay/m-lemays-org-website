@@ -14,7 +14,7 @@ organizations:
   url: https://www.intel.com/content/www/us/en/research/overview.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: "#IamIntel"
+bio: "Views expressed are my own and do not necessarily represent those of my employer. #IamIntel"
 
 # Interests to show in About widget
 interests:
