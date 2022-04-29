@@ -41,6 +41,7 @@ The main aspects that I considered are:
 7. Diagramming support
 8. Maintaining a logical history
 9. Data portability
+10. Support for a range of screen sizes
 
 I'll cover the details of each of these below.
 
@@ -103,3 +104,7 @@ A relevant advantage of maintaining a wiki in git is that it allows grouping cha
 ## Data portability
 
 Asciidoc is a widely supported data format that is both human- and machine-readable.
+
+## Support for a range of screen sizes
+
+Team members may use a variety of screen sizes to view content. GitHub wikis automatically adjust the content formatting and layout to accommodate different screen sizes.
