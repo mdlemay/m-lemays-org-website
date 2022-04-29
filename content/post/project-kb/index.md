@@ -63,7 +63,7 @@ Another advantage is that this integrates access control settings as well.
 
 ## Searchability
 
-Surprisingly, this is something that can't be taken for granted, even in modern tools. Since GitHub wikis are viewable in web browsers, browser search tools automatically apply.
+Surprisingly, this is something that can't be taken for granted, even in modern tools. Since GitHub wikis are viewable in web browsers, browser search tools automatically apply. The main GitHub search function also covers wiki content. It's necessary to manually click the wiki tab in search results for those instances to be displayed.
 
 Furthermore, since the files backing the wiki are human-readable and can be cloned, the full array of tools for searching text files also become applicable.
 
