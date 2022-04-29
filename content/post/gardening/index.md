@@ -5,7 +5,7 @@ title: "Gardening in a suburb of Portland, Oregon"
 subtitle: ""
 summary: ""
 authors: []
-tags: []
+tags: [home]
 categories: []
 date: 2020-04-18
 lastmod: 2020-04-19
