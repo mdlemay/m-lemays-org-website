@@ -94,6 +94,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/lemaymd
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0001-6206-9642
 - icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fab` icon pack
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=c7kQkOQAAAAJ
