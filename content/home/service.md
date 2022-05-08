@@ -50,7 +50,7 @@ subtitle = ""
 +++
 
 Professional society memberships:
- - Association for Computing Machinery (ACM)
+ - [Senior Member](https://awards.acm.org/award_winners/lemay_0552118) of the Association for Computing Machinery (ACM)
  - IEEE
 
 PC member:
