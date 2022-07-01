@@ -51,7 +51,7 @@ subtitle = ""
 
 Professional society memberships:
  - [Senior Member](https://awards.acm.org/award_winners/lemay_0552118) of the Association for Computing Machinery (ACM)
- - IEEE
+ - Senior Member of IEEE
 
 PC member:
  - TRUST 2010 & 2011
