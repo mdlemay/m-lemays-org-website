@@ -16,13 +16,16 @@ content:
   autolink: true
   # Email form provider
   form:
-    provider: netlify
+    provider: # netlify
     formspree:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
   
 design:
   columns: '2'
 ---
+For messages related to my work at Intel, please contact me at michael dot lemay at intel dot com.
+
+For other messages, please contact me at m at lemays dot org.
