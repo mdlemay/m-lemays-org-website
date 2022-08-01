@@ -110,7 +110,7 @@ short distance above our ductwork. So, the HVAC installer just increased the
 headroom in the duct as much as he could, as you can see below in comparison to
 the earlier pictures.
 
-![Increased duct headroom above evaporator coil.](increased-headroom.jpg)
+![Increased duct headroom above evaporator coil.](increased-headroom.png)
 
 After all that, the system finally provides adequate cooling! It still allows
 the indoor temperature to creep up in the afternoon on the hottest days like the
