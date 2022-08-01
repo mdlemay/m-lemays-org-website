@@ -36,7 +36,7 @@ difficulties. Perhaps you landed here by searching for a symptom that you are
 currently observing in your HVAC system. Maybe this post will help you to ask
 questions of your HVAC service company that can lead to getting your HVAC system
 working more quickly than would otherwise be the case and be less likely to be
-surprised by non-operative air conditioning on the first hot day of summer!
+surprised by inoperative air conditioning on the first hot day of summer!
 
 ## Initial installation
 
