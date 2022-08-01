@@ -8,7 +8,7 @@ authors: []
 tags: []
 categories: [personal]
 date: 2022-04-04
-lastmod: 2022-04-04
+lastmod: 2022-07-31
 featured: false
 draft: false
 
