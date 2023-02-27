@@ -32,7 +32,9 @@ experience:
     description: |2-
         I define and evaluate innovative security architectures for mitigating exploits and malware.  I draw on my expertise in architecture, compilers, operating systems, virtualization, HW/SW co-design, and formal methods to effectively devise solutions that are well-adapted to workload requirements.
 
-        Co-lead liaison from Intel for the [SRC JUMP CONIX](https://conix.io) research center.
+        Principal Investigator for [Intel's project](https://www.intel.com/content/www/us/en/newsroom/news/intel-and-ucsd-join-darpa-cyberdefense-program.html) in the [DARPA HARDEN program](https://www.darpa.mil/news-events/2022-10-13).
+
+        Served as Intel lead liaison for the [SRC JUMP CONIX](https://conix.io) research center.
 
   - title: PhD Student and Postdoc
     company: University of Illinois at Urbana-Champaign
