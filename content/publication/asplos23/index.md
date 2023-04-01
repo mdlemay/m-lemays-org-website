@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Going beyond the Limits of SFI: Flexible and Secure Hardware-Assisted In-Process Isolation with HFI"
+title: "Going beyond the Limits of SFI: Flexible and Secure Hardware-Assisted In-Process Isolation with HFI (distinguished paper award 🏆)"
 authors: ["Shravan Narayan", "Tal Garfinkel", "Mohammadkazem Taram", "Joey Rudek", "Daniel Moghimi", "Evan Johnson", "Chris Fallin", "Anjo Vahldiek-Oberwagner", "Michael LeMay", "Ravi Sahita", "Dean Tullsen", "Deian Stefan"]
 date: 2023-03-25
 doi: "10.1145/3582016.3582023"
