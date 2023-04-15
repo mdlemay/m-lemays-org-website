@@ -50,6 +50,11 @@ subtitle = ""
 +++
 
 Issued patents:
+1. [11,620,391 (2023): Data encryption based on immutable pointers](https://patents.google.com/patent/US11620391B2/en)
+1. [11,580,035 (2023): Fine-grained stack protection using cryptographic computing](https://patents.google.com/patent/US11580035B2/en)
+1. [11,575,504 (2023): Cryptographic computing engine for memory load and store units of a microarchitecture pipeline](https://patents.google.com/patent/US11575504B2/en)
+1. [11,562,063 (2023): Encoded inline capabilities](https://patents.google.com/patent/US11562063B2/en)
+1. [11,531,750 (2022): Installing and manipulating a secure virtual machine image through an untrusted hypervisor](https://patents.google.com/patent/US11531750B2/en)
 1. [11,436,161 (2022): System for address mapping and translation protection](https://patents.google.com/patent/US11436161B2/en)
 1. [11,429,580 (2022): Collision-free hashing for accessing cryptographic computing metadata and for cache expansion](https://patents.google.com/patent/US11429580B2/en)
 1. [11,416,624 (2022): Cryptographic computing using encrypted base addresses and used in multi-tenant environments](https://patents.google.com/patent/US11416624B2/en)
@@ -107,6 +112,13 @@ Issued patents:
 1. [7,774,411 (2010): Secure electronic message transport protocol](https://patents.google.com/patent/US7774411B2/en)
 
 Published patent applications:
+1. [17/791,000: CRYPTOGRAPHIC COMPUTING IN MULTITENANT ENVIRONMENTS](https://patents.google.com/patent/US20230027329A1/en)
+1. [17/947,072: UPDATING ENCRYPTED SECURITY CONTEXT IN STACK POINTERS FOR EXCEPTION HANDLING AND TIGHT BOUNDING OF ON-STACK ARGUMENTS](https://patents.google.com/patent/US20230018585A1/en)
+1. [17/357,951: ZERO-REDUNDANCY TAG STORAGE FOR BUCKETED ALLOCATORS](https://patents.google.com/patent/US20220413715A1/en)
+1. [17/855,261: STATELESS AND LOW-OVERHEAD DOMAIN ISOLATION USING CRYPTOGRAPHIC COMPUTING](https://patents.google.com/patent/US20220343029A1/en)
+1. [17/854,814: CRYPTOGRAPHIC COMPUTING ISOLATION FOR MULTI-TENANCY AND SECURE SOFTWARE COMPONENTS](https://patents.google.com/patent/US20220335140A1/en)
+1. [17/839,877: TECHNOLOGIES FOR MEMORY TAGGING](https://patents.google.com/patent/US20220318158A1/en)
+1. [17/833,515: CRYPTOGRAPHIC ISOLATION OF MEMORY COMPARTMENTS IN A COMPUTING ENVIRONMENT](https://patents.google.com/patent/US20220300626A1/en)
 1. [17/357,963: REGION-BASED DETERMINISTIC MEMORY SAFETY](https://patents.google.com/patent/US20220261509A1/en)
 1. [17/704,771: TAGLESS IMPLICIT INTEGRITY WITH MULTI-PERSPECTIVE PATTERN SEARCH](https://patents.google.com/patent/US20220222183A1/en)
 1. [17/696,330: RATCHET POINTERS TO ENFORCE BYTE-GRANULAR BOUNDS CHECKS ON MULTIPLE VIEWS OF AN OBJECT](https://patents.google.com/patent/US20220214881A1/en)
@@ -119,15 +131,11 @@ Published patent applications:
 1. [17/485,213: OBJECT AND CACHELINE GRANULARITY CRYPTOGRAPHIC MEMORY INTEGRITY](https://patents.google.com/patent/US20220012188A1/en)
 1. [17/559,385: DATA OBLIVIOUS CRYPTOGRAPHIC COMPUTING](https://patents.google.com/patent/US20220114285A1/en)
 1. [17/561,817: TYPED STORE BUFFERS FOR HARDENING STORE FORWARDING](https://patents.google.com/patent/US20220114104A1/en)
-
 1. [17/485,213: OBJECT AND CACHELINE GRANULARITY CRYPTOGRAPHIC MEMORY INTEGRITY](https://patents.google.com/patent/US20220012188A1/en)
 1. [17/314,349: TECHNOLOGY TO CONTROL SYSTEM CALL INVOCATIONS WITHIN A SINGLE ADDRESS SPACE](https://patents.google.com/patent/US20210264020A1/en)
 1. [17/255,588: FUNCTION AS A SERVICE (FAAS) SYSTEM ENHANCEMENTS](https://patents.google.com/patent/US20210263779A1/en)
 1. [16/998,913: PROTECTION OF KEYS AND SENSITIVE DATA FROM ATTACK WITHIN MICROPROCESSOR ARCHITECTURE](https://patents.google.com/patent/US20200382303A1/en)
 1. [16/862,022: MEMORY WRITE FOR OWNERSHIP ACCESS IN A CORE](https://patents.google.com/patent/US20200257827A1/en)
-1. [16/776,467: CRYPTOGRAPHIC COMPUTING ENGINE FOR MEMORY LOAD AND STORE UNITS OF A MICROARCHITECTURE PIPELINE](https://patents.google.com/patent/US20200169383A1/en)
-1. [16/740,359: CRYPTOGRAPHIC COMPUTING USING ENCRYPTED BASE ADDRESSES AND USED IN MULTI-TENANT ENVIRONMENTS](https://patents.google.com/patent/US20200201789A1/en)
-1. [16/724,026: DATA ENCRYPTION BASED ON IMMUTABLE POINTERS](https://patents.google.com/patent/US20200125770A1/en)
 1. [16/722,342: POINTER BASED DATA ENCRYPTION](https://patents.google.com/patent/US20200125501A1/en)
 1. [WO2020096639: Function as a Service (FaaS) System Enhancements](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020096639)
 1. [16/024,257: Memory tagging for side-channel defense, memory safety, and sandboxing](https://patents.google.com/patent/US20190042799A1/en)
