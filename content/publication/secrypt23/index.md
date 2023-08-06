@@ -3,7 +3,7 @@
 
 title: "MEMES: Memory Encryption-Based Memory Safety on Commodity Hardware"
 authors: ["David Schrammel", "Salmin Sultana", "Michael LeMay", "David Durham", "Martin Unterguggenberger", "Pascal Nasahl", "Stefan Mangard"]
-date: 2022-07-10
+date: 2023-07-10
 doi: "10.5220/0012050300003555"
 
 # Schedule page publish date (NOT publication's date).
