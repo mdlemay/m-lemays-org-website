@@ -50,6 +50,14 @@ subtitle = ""
 +++
 
 Issued patents:
+1. [11,768,931 (2023): Technologies for object-oriented memory management with extended segmentation](https://patents.google.com/patent/US11768931B2/en)
+1. [11,741,018 (2023): Apparatus and method for efficient process-based compartmentalization](https://patents.google.com/patent/US11741018B2/en)
+1. [11,734,199 (2023): Enforcing memory operand types using protection keys](https://patents.google.com/patent/US11734199B2/en)
+1. [11,711,201 (2023): Encoded stack pointers](https://patents.google.com/patent/US11711201B2/en)
+1. [11,704,297 (2023): Collision-free hashing for accessing cryptographic computing metadata and for cache expansion](https://patents.google.com/patent/US11704297B2/en)
+1. [11,681,793 (2023): Technologies for object-oriented memory management with extended segmentation](https://patents.google.com/patent/US11681793B2/en)
+1. [11,669,625 (2023): Data type based cryptographic computing](https://patents.google.com/patent/US11669625B2/en)
+1. [11,630,920 (2023): Memory tagging for side-channel defense, memory safety, and sandboxing](https://patents.google.com/patent/US11630920B2/en)
 1. [11,620,391 (2023): Data encryption based on immutable pointers](https://patents.google.com/patent/US11620391B2/en)
 1. [11,580,035 (2023): Fine-grained stack protection using cryptographic computing](https://patents.google.com/patent/US11580035B2/en)
 1. [11,575,504 (2023): Cryptographic computing engine for memory load and store units of a microarchitecture pipeline](https://patents.google.com/patent/US11575504B2/en)
@@ -138,7 +146,6 @@ Published patent applications:
 1. [16/862,022: MEMORY WRITE FOR OWNERSHIP ACCESS IN A CORE](https://patents.google.com/patent/US20200257827A1/en)
 1. [16/722,342: POINTER BASED DATA ENCRYPTION](https://patents.google.com/patent/US20200125501A1/en)
 1. [WO2020096639: Function as a Service (FaaS) System Enhancements](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020096639)
-1. [16/024,257: Memory tagging for side-channel defense, memory safety, and sandboxing](https://patents.google.com/patent/US20190042799A1/en)
 1. [15/721,553: Installing and manipulating a secure virtual machine image through an untrusted hypervisor](https://patents.google.com/patent/US20190102539A1/en)
 1. [15/713,573: Methods and arrangements to determine physical resource assignments](https://patents.google.com/patent/US20190095796A1/en)
 1. [16/040,193: System, method and apparatus for automatic program compartmentalization](https://patents.google.com/patent/US20190050558A1/en)
