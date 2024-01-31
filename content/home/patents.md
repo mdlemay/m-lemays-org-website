@@ -50,6 +50,17 @@ subtitle = ""
 +++
 
 Issued patents:
+1. [11,841,939 (2023): Technologies for object-oriented memory management with extended segmentation](https://patents.google.com/patent/US11841939B2/en)
+1. [11,838,418 (2023): Protection of keys and sensitive data from attack within microprocessor architecture](https://patents.google.com/patent/US11838418B2/en)
+1. [11,836,094 (2023): Cryptographic data objects page conversion](https://patents.google.com/patent/US11836094B2/en)
+1. [11,829,299 (2023): Technologies for execute only transactional memory](https://patents.google.com/patent/US11829299B2/en)
+1. [11,829,488 (2023): Pointer based data encryption](https://patents.google.com/patent/US11829488B2/en)
+1. [11,822,644 (2023): Technologies for object-oriented memory management with extended segmentation](https://patents.google.com/patent/US11822644B2/en)
+1. [11,797,678 (2023): Memory scanning methods and apparatus](https://patents.google.com/patent/US11797678B2/en)
+1. [11,789,737 (2023): Capability-based stack protection for software fault isolation](https://patents.google.com/patent/US11789737B2/en)
+1. [11,784,786 (2023): Mitigating security vulnerabilities with memory allocation markers in cryptographic computing systems](https://patents.google.com/patent/US11784786B2/en)
+1. [11,782,826 (2023): Security check systems and methods for memory allocations](https://patents.google.com/patent/US11782826B2/en)
+1. [11,782,716 (2023): Hardware apparatuses, methods, and systems for individually revocable capabilities for enforcing temporal memory safety](https://patents.google.com/patent/US11782716B2/en)
 1. [11,768,931 (2023): Technologies for object-oriented memory management with extended segmentation](https://patents.google.com/patent/US11768931B2/en)
 1. [11,741,018 (2023): Apparatus and method for efficient process-based compartmentalization](https://patents.google.com/patent/US11741018B2/en)
 1. [11,734,199 (2023): Enforcing memory operand types using protection keys](https://patents.google.com/patent/US11734199B2/en)
@@ -120,6 +131,10 @@ Issued patents:
 1. [7,774,411 (2010): Secure electronic message transport protocol](https://patents.google.com/patent/US7774411B2/en)
 
 Published patent applications:
+1. [17/853,087: REDUCING INSTRUMENTATION CODE BLOAT AND PERFORMANCE OVERHEADS USING A RUNTIME CALL INSTRUCTION](https://patents.google.com/patent/US20240004659A1/en)
+1. [17/849,351: CONTROL FLOW INTEGRITY TO PREVENT POTENTIAL LEAKAGE OF SENSITIVE DATA TO ADVERSARIES](https://patents.google.com/patent/US20230418934A1/en)
+1. [17/957,814: MEMORY SAFETY WITH SINGLE MEMORY TAG PER ALLOCATION](https://patents.google.com/patent/US20230393769A1/en)
+1. [17/848,142: IMPLICIT MEMORY CORRUPTION DETECTION FOR CONDITIONAL DATA TYPES](https://patents.google.com/patent/US20230418608A1/en)
 1. [17/791,000: CRYPTOGRAPHIC COMPUTING IN MULTITENANT ENVIRONMENTS](https://patents.google.com/patent/US20230027329A1/en)
 1. [17/947,072: UPDATING ENCRYPTED SECURITY CONTEXT IN STACK POINTERS FOR EXCEPTION HANDLING AND TIGHT BOUNDING OF ON-STACK ARGUMENTS](https://patents.google.com/patent/US20230018585A1/en)
 1. [17/357,951: ZERO-REDUNDANCY TAG STORAGE FOR BUCKETED ALLOCATORS](https://patents.google.com/patent/US20220413715A1/en)
@@ -142,7 +157,6 @@ Published patent applications:
 1. [17/485,213: OBJECT AND CACHELINE GRANULARITY CRYPTOGRAPHIC MEMORY INTEGRITY](https://patents.google.com/patent/US20220012188A1/en)
 1. [17/314,349: TECHNOLOGY TO CONTROL SYSTEM CALL INVOCATIONS WITHIN A SINGLE ADDRESS SPACE](https://patents.google.com/patent/US20210264020A1/en)
 1. [17/255,588: FUNCTION AS A SERVICE (FAAS) SYSTEM ENHANCEMENTS](https://patents.google.com/patent/US20210263779A1/en)
-1. [16/998,913: PROTECTION OF KEYS AND SENSITIVE DATA FROM ATTACK WITHIN MICROPROCESSOR ARCHITECTURE](https://patents.google.com/patent/US20200382303A1/en)
 1. [16/862,022: MEMORY WRITE FOR OWNERSHIP ACCESS IN A CORE](https://patents.google.com/patent/US20200257827A1/en)
 1. [16/722,342: POINTER BASED DATA ENCRYPTION](https://patents.google.com/patent/US20200125501A1/en)
 1. [WO2020096639: Function as a Service (FaaS) System Enhancements](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020096639)
