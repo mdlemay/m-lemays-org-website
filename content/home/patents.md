@@ -50,6 +50,7 @@ subtitle = ""
 +++
 
 Issued patents:
+1. [11,922,220 (2024): Function as a service (FaaS) system enhancements](https://patents.google.com/patent/US11922220B2/en)
 1. [11,841,939 (2023): Technologies for object-oriented memory management with extended segmentation](https://patents.google.com/patent/US11841939B2/en)
 1. [11,838,418 (2023): Protection of keys and sensitive data from attack within microprocessor architecture](https://patents.google.com/patent/US11838418B2/en)
 1. [11,836,094 (2023): Cryptographic data objects page conversion](https://patents.google.com/patent/US11836094B2/en)
@@ -131,6 +132,9 @@ Issued patents:
 1. [7,774,411 (2010): Secure electronic message transport protocol](https://patents.google.com/patent/US7774411B2/en)
 
 Published patent applications:
+1. [18/499,133: POINTER BASED DATA ENCRYPTION](https://patents.google.com/patent/US20240004659A1/en)
+1. [17/886,981: SPECULATING OBJECT-GRANULAR KEY IDENTIFIERS FOR MEMORY SAFETY](https://patents.google.com/patent/US20240054080A1/en)
+1. [17/853,087: REDUCING INSTRUMENTATION CODE BLOAT AND PERFORMANCE OVERHEADS USING A RUNTIME CALL INSTRUCTION](https://patents.google.com/patent/US20240004659A1/en)
 1. [17/853,087: REDUCING INSTRUMENTATION CODE BLOAT AND PERFORMANCE OVERHEADS USING A RUNTIME CALL INSTRUCTION](https://patents.google.com/patent/US20240004659A1/en)
 1. [17/849,351: CONTROL FLOW INTEGRITY TO PREVENT POTENTIAL LEAKAGE OF SENSITIVE DATA TO ADVERSARIES](https://patents.google.com/patent/US20230418934A1/en)
 1. [17/957,814: MEMORY SAFETY WITH SINGLE MEMORY TAG PER ALLOCATION](https://patents.google.com/patent/US20230393769A1/en)
@@ -156,9 +160,7 @@ Published patent applications:
 1. [17/561,817: TYPED STORE BUFFERS FOR HARDENING STORE FORWARDING](https://patents.google.com/patent/US20220114104A1/en)
 1. [17/485,213: OBJECT AND CACHELINE GRANULARITY CRYPTOGRAPHIC MEMORY INTEGRITY](https://patents.google.com/patent/US20220012188A1/en)
 1. [17/314,349: TECHNOLOGY TO CONTROL SYSTEM CALL INVOCATIONS WITHIN A SINGLE ADDRESS SPACE](https://patents.google.com/patent/US20210264020A1/en)
-1. [17/255,588: FUNCTION AS A SERVICE (FAAS) SYSTEM ENHANCEMENTS](https://patents.google.com/patent/US20210263779A1/en)
 1. [16/862,022: MEMORY WRITE FOR OWNERSHIP ACCESS IN A CORE](https://patents.google.com/patent/US20200257827A1/en)
-1. [16/722,342: POINTER BASED DATA ENCRYPTION](https://patents.google.com/patent/US20200125501A1/en)
 1. [WO2020096639: Function as a Service (FaaS) System Enhancements](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020096639)
 1. [15/721,553: Installing and manipulating a secure virtual machine image through an untrusted hypervisor](https://patents.google.com/patent/US20190102539A1/en)
 1. [15/713,573: Methods and arrangements to determine physical resource assignments](https://patents.google.com/patent/US20190095796A1/en)
