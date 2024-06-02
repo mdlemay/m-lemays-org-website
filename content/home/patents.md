@@ -50,6 +50,10 @@ subtitle = ""
 +++
 
 Issued patents:
+1. [11,972,126 (2024): Data relocation for inline metadata](https://patents.google.com/patent/US11972126B2/en)
+1. [11,960,375 (2024): Apparatus and method for pausing processor trace for efficient analysis](https://patents.google.com/patent/US11960375B2/en)
+1. [11,954,045 (2024): Object and cacheline granularity cryptographic memory integrity](https://patents.google.com/patent/US11954045B2/en)
+1. [11,940,927 (2024): Technologies for memory tagging](https://patents.google.com/patent/US11940927B2/en)
 1. [11,922,220 (2024): Function as a service (FaaS) system enhancements](https://patents.google.com/patent/US11922220B2/en)
 1. [11,841,939 (2023): Technologies for object-oriented memory management with extended segmentation](https://patents.google.com/patent/US11841939B2/en)
 1. [11,838,418 (2023): Protection of keys and sensitive data from attack within microprocessor architecture](https://patents.google.com/patent/US11838418B2/en)
@@ -132,6 +136,9 @@ Issued patents:
 1. [7,774,411 (2010): Secure electronic message transport protocol](https://patents.google.com/patent/US7774411B2/en)
 
 Published patent applications:
+1. [17/936,011: DETERMINISTIC ADJACENT OVERFLOW DETECTION FOR SLOTTED MEMORY POINTERS](https://patents.google.com/patent/US20240104013A1/en)
+1. [17/953,186: TEMPORAL INFORMATION LEAKAGE PROTECTION MECHANISM FOR CRYPTOGRAPHIC COMPUTING](https://patents.google.com/patent/US20240104027A1/en)
+1. [17/949,353: USER-LEVEL EXCEPTION-BASED INVOCATION OF SOFTWARE INSTRUMENTATION HANDLERS](https://patents.google.com/patent/US20240095063A1/en)
 1. [18/499,133: POINTER BASED DATA ENCRYPTION](https://patents.google.com/patent/US20240004659A1/en)
 1. [17/886,981: SPECULATING OBJECT-GRANULAR KEY IDENTIFIERS FOR MEMORY SAFETY](https://patents.google.com/patent/US20240054080A1/en)
 1. [17/853,087: REDUCING INSTRUMENTATION CODE BLOAT AND PERFORMANCE OVERHEADS USING A RUNTIME CALL INSTRUCTION](https://patents.google.com/patent/US20240004659A1/en)
