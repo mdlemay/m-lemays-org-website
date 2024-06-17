@@ -50,6 +50,7 @@ subtitle = ""
 +++
 
 Issued patents:
+1. [12,008,374 (2024): Cryptographic enforcement of borrow checking](https://patents.google.com/patent/US12008374B2/en)
 1. [11,972,126 (2024): Data relocation for inline metadata](https://patents.google.com/patent/US11972126B2/en)
 1. [11,960,375 (2024): Apparatus and method for pausing processor trace for efficient analysis](https://patents.google.com/patent/US11960375B2/en)
 1. [11,954,045 (2024): Object and cacheline granularity cryptographic memory integrity](https://patents.google.com/patent/US11954045B2/en)
