@@ -165,7 +165,6 @@ Published patent applications:
 1. [17/561,817: TYPED STORE BUFFERS FOR HARDENING STORE FORWARDING](https://patents.google.com/patent/US20220114104A1/en)
 1. [17/314,349: TECHNOLOGY TO CONTROL SYSTEM CALL INVOCATIONS WITHIN A SINGLE ADDRESS SPACE](https://patents.google.com/patent/US20210264020A1/en)
 1. [16/862,022: MEMORY WRITE FOR OWNERSHIP ACCESS IN A CORE](https://patents.google.com/patent/US20200257827A1/en)
-1. [WO2020096639: Function as a Service (FaaS) System Enhancements](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2020096639)
 1. [15/721,553: Installing and manipulating a secure virtual machine image through an untrusted hypervisor](https://patents.google.com/patent/US20190102539A1/en)
 1. [15/713,573: Methods and arrangements to determine physical resource assignments](https://patents.google.com/patent/US20190095796A1/en)
 1. [16/040,193: System, method and apparatus for automatic program compartmentalization](https://patents.google.com/patent/US20190050558A1/en)
