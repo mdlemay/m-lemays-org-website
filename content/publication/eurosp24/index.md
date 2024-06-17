@@ -3,7 +3,7 @@
 
 title: "Memory Tagging using Cryptographic Memory Integrity on Commodity x86 CPUs"
 authors: ["David Schrammel", "Martin Unterguggenberger", "Lukas Lamster", "Salmin Sultana", "Karanvir Grewal", "Michael LeMay", "David M. Durham", "Stefan Mangard"]
-date: 2024-07-10
+date: 2024-06-10
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
