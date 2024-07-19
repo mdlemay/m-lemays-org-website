@@ -50,6 +50,9 @@ subtitle = ""
 +++
 
 Issued patents:
+1. [12,032,486 (2024): Transient side-channel aware architecture for cryptographic computing](https://patents.google.com/patent/US12032486B2/en)
+1. [12,019,733 (2024): Compartment isolation for load store forwarding](https://patents.google.com/patent/US12019733B2/en)
+1. [12,019,562 (2024): Cryptographic computing including enhanced cryptographic addresses](https://patents.google.com/patent/US12019562B2/en)
 1. [12,008,374 (2024): Cryptographic enforcement of borrow checking](https://patents.google.com/patent/US12008374B2/en)
 1. [11,972,126 (2024): Data relocation for inline metadata](https://patents.google.com/patent/US11972126B2/en)
 1. [11,960,375 (2024): Apparatus and method for pausing processor trace for efficient analysis](https://patents.google.com/patent/US11960375B2/en)
@@ -157,7 +160,6 @@ Published patent applications:
 1. [17/704,771: TAGLESS IMPLICIT INTEGRITY WITH MULTI-PERSPECTIVE PATTERN SEARCH](https://patents.google.com/patent/US20220222183A1/en)
 1. [17/696,330: RATCHET POINTERS TO ENFORCE BYTE-GRANULAR BOUNDS CHECKS ON MULTIPLE VIEWS OF AN OBJECT](https://patents.google.com/patent/US20220214881A1/en)
 1. [17/699,593: CRYPTOGRAPHIC DATA OBJECTS PAGE CONVERSION](https://patents.google.com/patent/US20220206960A1/en)
-1. [17/692,464: COMPARTMENT ISOLATION FOR LOAD STORE FORWARDING](https://patents.google.com/patent/US20220197993A1/en)
 1. [17/693,748: GENERATING ENCRYPTED CAPABILITIES WITHIN BOUNDS](https://patents.google.com/patent/US20220197638A1/en)
 1. [17/682,997: COMPILER-DIRECTED SELECTION OF OBJECTS FOR CAPABILITY PROTECTION](https://patents.google.com/patent/US20220179949A1/en)
 1. [17/561,828: PROCESS OBJECT RE-KEYING DURING PROCESS CREATION IN CRYPTOGRAPHIC COMPUTING](https://patents.google.com/patent/US20220123930A1/en)
