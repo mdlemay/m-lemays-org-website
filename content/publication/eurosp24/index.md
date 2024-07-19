@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Memory Tagging using Cryptographic Memory Integrity on Commodity x86 CPUs"
+title: "Memory Tagging using Cryptographic Memory Integrity on Commodity x86 CPUs (runner-up for distinguished paper award 🏆)"
 authors: ["David Schrammel", "Martin Unterguggenberger", "Lukas Lamster", "Salmin Sultana", "Karanvir Grewal", "Michael LeMay", "David M. Durham", "Stefan Mangard"]
 date: 2024-07-10
 doi: ""
