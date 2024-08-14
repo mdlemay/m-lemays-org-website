@@ -30,11 +30,24 @@ experience:
     date_start: '2012-06-04'
     date_end: ''
     description: |2-
-        I define and evaluate innovative security architectures for mitigating exploits and malware.  I draw on my expertise in architecture, compilers, operating systems, virtualization, HW/SW co-design, and formal methods to effectively devise solutions that are well-adapted to workload requirements.
+        My research has generated or influenced hardware and software security architectures
+        deployed on a large proportion of computer systems in use today.
 
-        Principal Investigator for [Intel's project](https://www.intel.com/content/www/us/en/newsroom/news/intel-and-ucsd-join-darpa-cyberdefense-program.html) in the [DARPA HARDEN program](https://www.darpa.mil/news-events/2022-10-13).
+        I have contributed to shipping processor security technologies, including
+        [Control-Flow Enforcement Technology (CET)](https://www.forbes.com/sites/tonybradley/2020/06/17/intel-cet-raises-the-bar-for-malware-defense/) and
+        [VT-Redirect Protection (VT-rp)](https://www.pcworld.com/article/619047/intels-12th-gen-vpro-chips-now-actively-fight-ransomware-supply-chain-attacks.html).
 
-        Served as Intel lead liaison for the [SRC JUMP CONIX](https://conix.io) research center.
+        Principal Investigator for [Intel's project on Cryptographic Capability Computing (C3)](https://www.intel.com/content/www/us/en/newsroom/news/intel-and-ucsd-join-darpa-cyberdefense-program.html) in the [DARPA HARDEN program](https://www.darpa.mil/news-events/2022-10-13).
+
+        I [designed](https://groups.google.com/a/chromium.org/g/memory-safety-dev/c/PDi1cvAvUGc)
+        and [co-developed](https://groups.google.com/a/chromium.org/g/memory-safety-dev/c/1tYGORldm3w)
+        deterministic spatial safety support for MiraclePtr in the Chrome browser.
+
+        My LLVM-based research on shielding stack memory from corruption helped lead to a 2022
+        paper in a top-tier programming languages conference
+        [covered by ZDNet](https://www.zdnet.com/article/this-new-firefox-browser-feature-could-stop-zero-day-bugs-in-their-tracks/).
+
+        I also researched approaches for scalable isolation, e.g., using [segmentation to accelerate WebAssembly](https://plas2022.github.io/files/pdf/SegueColorGuard.pdf) (upstreamed in [wasm2c](https://github.com/WebAssembly/wabt/pull/2395)).
 
   - title: PhD Student and Postdoc
     company: University of Illinois at Urbana-Champaign

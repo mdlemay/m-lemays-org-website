@@ -79,8 +79,10 @@ Conference and workshop reviews:
 
 Selected Mentoring Experiences:
  - Summer 2021, 2022, and 2023: Four mentees in [Research Experience for Undergraduates (REU) summer program](https://ece.princeton.edu/news/princeton-and-intel-join-forces-create-more-inclusive-research-career-pipeline).
- - 2020-present: High schooler and author of [introductory book on cryptography](https://www.kgw.com/article/news/local/beaverton-student-publishes-book-on-cryptography/283-b00c6f67-79c5-4d60-990a-6e43ae94f863).
+ - 2020-present: High schooler and author of introductory book on cryptography. [(TV interview)](https://www.kgw.com/article/news/local/beaverton-student-publishes-book-on-cryptography/283-b00c6f67-79c5-4d60-990a-6e43ae94f863).
+ - 2022: I served as lead Intel liaison for the DARPA-sponsored \href{https://conix.io}{SRC JUMP CONIX} center at its conclusion.
  - 2018-present: Multiple mentees within official intra-Intel mentoring program.
+ - 2013: USAFA students on [innovative usages for Intel VT-x](https://apps.dtic.mil/sti/tr/pdf/ADA591718.pdf).
 
 Volunteering:
  - Computer Science Category Judge at 2020-2023 [NWSE Beaverton Hillsboro Science Expo](http://beavhillsciexpo.weebly.com/)
