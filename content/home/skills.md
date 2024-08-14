@@ -20,11 +20,18 @@ feature:
 #  icon: r-project
 #  icon_pack: fab
   name: C/C++
-- name: Rust
+- description: Including CMake
+  name: Makefiles
+- description: (e.g., Bash)
+  name: Linux shell scripting
+- name: Git
+- description: Including for WebAssembly
+  name: Rust
+- name: Asciidoc, Markdown, LaTeX
 - name: Go
 - description: SAT/SMT solver (completed [Coursera course](https://coursera.org/verify/6ZWWW76MLMB5))
-  name: SMT-LIB / Z3
 - description: Somewhat familiar with assembly language for other architectures as well
+  name: SMT-LIB/Z3
   name: X86 Assembly
 - description: Compiler framework
   name: LLVM/Clang
@@ -35,6 +42,7 @@ feature:
 - description: Interactive theorem prover
   name: Isabelle/HOL
 - name: Python
+- name: JavaScript
 - name: Java
 - description: Experience using Intel Quartus and Xilinx Vivado FPGA toolchains.  Experience using Synopsys VCS and Mentor Graphics Modelsim simulators.  Experience extending and maintaining an in-house Verilog simulator during an internship with Cray, Inc.
   name: Verilog/VHDL
