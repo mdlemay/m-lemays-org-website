@@ -30,8 +30,8 @@ feature:
 - name: Asciidoc, Markdown, LaTeX
 - name: Go
 - description: SAT/SMT solver (completed [Coursera course](https://coursera.org/verify/6ZWWW76MLMB5))
-- description: Somewhat familiar with assembly language for other architectures as well
   name: SMT-LIB/Z3
+- description: Somewhat familiar with assembly language for other architectures as well
   name: X86 Assembly
 - description: Compiler framework
   name: LLVM/Clang
