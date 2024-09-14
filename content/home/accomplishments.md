@@ -30,16 +30,8 @@ item:
     date_start: '2021-01-01'
     description: Intel Hardware Security Academic Award Honorable Mention for a paper on Hardware-assisted Fault Isolation (HFI).
     organization: UT Austin
-    organization_url: https://www.cs.utexas.edu/
+    organization_url: https://www.cs.utexas.edu
     title: IHSAA Honorable Mention
-    url: ''
-  - certificate_url: https://coursera.org/verify/6ZWWW76MLMB5
-    date_end: ''
-    date_start: '2021-01-06'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Automated Reasoning: satisfiability
     url: ''
 
 design:
