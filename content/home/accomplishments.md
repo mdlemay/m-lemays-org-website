@@ -27,7 +27,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.cs.utexas.edu/news/2024/shravan-narayans-innovative-research-garners-multiple-prestigious-honors-hardware
     date_end: ''
-    date_start: '2021-01-01'
+    date_start: '2024-08-15'
     description: Intel Hardware Security Academic Award Honorable Mention for a paper on Hardware-assisted Fault Isolation (HFI).
     organization: Intel
     organization_url: https://www.cs.utexas.edu
