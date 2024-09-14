@@ -54,6 +54,7 @@ Professional society memberships:
  - Senior Member of IEEE
 
 PC member:
+ - [Workshop on Principles of Secure Compilation (PriSC 2025), associated with POPL 2025](https://popl25.sigplan.org/home/prisc-2025)
  - TRUST 2010 & 2011
 
 Journal reviews:
