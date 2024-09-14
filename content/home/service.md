@@ -53,7 +53,7 @@ Professional society memberships:
  - [Senior Member](https://awards.acm.org/award_winners/lemay_0552118) of the Association for Computing Machinery (ACM)
  - Senior Member of IEEE
 
-PC member:
+Program Committee (PC) member:
  - [Workshop on Principles of Secure Compilation (PriSC 2025), associated with POPL 2025](https://popl25.sigplan.org/home/prisc-2025)
  - TRUST 2010 & 2011
 
