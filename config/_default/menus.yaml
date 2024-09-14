@@ -25,9 +25,12 @@ main:
   - name: Service
     url: '#service'
     weight: 53
+  - name: Awards
+    url: '#accomplishments'
+    weight: 54
   - name: Hobbies
     url: '#hobbies'
-    weight: 54
+    weight: 55
   - name: Contact
     url: '#contact'
     weight: 60
