@@ -47,10 +47,12 @@ profiles:
 bio: "Views expressed are my own and do not necessarily represent those of my employer. #IamIntel"
 
 interests:
-- Formal specification and verification
-- Compiler-based security hardening
-- Anti-malware techniques
+- Memory safety
+- Anti-malware
 - Computer architecture
+- Compilers
+- Browsers
+- Formal methods
 - Operating systems and virtualization
 
 education:
@@ -91,9 +93,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
+- icon: x
   icon_pack: fab
-  link: https://twitter.com/lemaymd
+  link: https://x.com/lemaymd
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-6206-9642
