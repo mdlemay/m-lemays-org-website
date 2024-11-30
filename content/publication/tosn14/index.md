@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Power-Based Diagnosis of Node Silence in Remote High-End Sensing Systems"
-authors: ["Yong Yang", "Lu Su", "Mohammad Maifi Khan", "Michael LeMay", "Tarek F. Abdelzaher", "Jiawei Han"]
+authors: ["Yong Yang", "Lu Su", "Mohammad Maifi Khan", admin, "Tarek F. Abdelzaher", "Jiawei Han"]
 date: 2014-12-01
 doi: "https://doi.org/10.1145/2661639"
 
@@ -10,10 +10,9 @@ doi: "https://doi.org/10.1145/2661639"
 #publishDate: {{ .Date }}
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "ACM Transactions on Sensor Networks (ToSN)"

@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Network-on-Chip Firewall: Countering Defective and Malicious System-on-Chip Hardware"
-authors: ["Michael LeMay", "Carl A. Gunter"]
+authors: [admin, "Carl A. Gunter"]
 date: 2015-08-27
 doi: "https://doi.org/10.1007/978-3-319-23165-5_19"
 
@@ -10,10 +10,9 @@ doi: "https://doi.org/10.1007/978-3-319-23165-5_19"
 #publishDate: {{ .Date }}
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Logic, Rewriting, and Concurrency"
@@ -26,7 +25,7 @@ summary: "We developed a Network-on-Chip (NoC) firewall in Bluespec SystemVerilo
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

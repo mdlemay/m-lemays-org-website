@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "EC-CFI: Control-Flow Integrity via Code Encryption Counteracting Fault Attacks"
-authors: ["Pascal Nasahl", "Salmin Sultana", "Hans Liljestrand", "Karanvir Grewal", "Michael LeMay", "David M. Durham", "David Schrammel", "Stefan Mangard"]
+authors: ["Pascal Nasahl", "Salmin Sultana", "Hans Liljestrand", "Karanvir Grewal", admin, "David M. Durham", "David Schrammel", "Stefan Mangard"]
 date: 2023-05-01
 doi: "10.1109/HOST55118.2023.10132915"
 
@@ -10,10 +10,9 @@ doi: "10.1109/HOST55118.2023.10132915"
 #publishDate: {{ .Date }}
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "16th IEEE International Symposium on Hardware Oriented Security and Trust (HOST)"
@@ -26,7 +25,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

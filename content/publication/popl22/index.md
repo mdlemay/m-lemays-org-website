@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Isolation without Taxation: Near-Zero-Cost Transitions for WebAssembly and SFI"
-authors: ["Matthew Kolosick", "Shravan Ravi Narayan", "Evan Johnson", "Conrad Watt", "Michael LeMay", "Deepak Garg", "Ranjit Jhala", "Deian Stefan"]
+authors: ["Matthew Kolosick", "Shravan Ravi Narayan", "Evan Johnson", "Conrad Watt", admin, "Deepak Garg", "Ranjit Jhala", "Deian Stefan"]
 date: 2022-01-12
 doi: "10.1145/3498688"
 
@@ -10,10 +10,9 @@ doi: "10.1145/3498688"
 #publishDate: {{ .Date }}
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "49th ACM SIGPLAN Symposium on Principles of Programming Languages"
@@ -26,7 +25,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

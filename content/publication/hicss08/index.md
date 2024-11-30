@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "An Integrated Architecture for Demand Response Communications and Control (best paper award 🏆)"
-authors: ["Michael LeMay", "Rajesh Nelli", "George Gross", "Carl A. Gunter"]
+authors: [admin, "Rajesh Nelli", "George Gross", "Carl A. Gunter"]
 date: 2008-01-07
 doi: "https://doi.org/10.1109/HICSS.2008.60"
 
@@ -10,10 +10,9 @@ doi: "https://doi.org/10.1109/HICSS.2008.60"
 #publishDate: {{ .Date }}
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "41st Hawaii International Conference on System Sciences"
@@ -26,7 +25,7 @@ summary: "Price-responsive electrical demand-response system, e.g. for laptops a
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

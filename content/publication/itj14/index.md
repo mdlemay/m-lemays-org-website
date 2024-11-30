@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Protecting Sensor Data from Malware Attacks (pages 178-197)"
-authors: ["Jonathan Edwards", "Ken Grewal", "Michael LeMay", "Scott H. Robinson", "Ravi Sahita", "Carl Woodward"]
+authors: ["Jonathan Edwards", "Ken Grewal", admin, "Scott H. Robinson", "Ravi Sahita", "Carl Woodward"]
 date: 2014-06-01
 doi: ""
 
@@ -10,10 +10,9 @@ doi: ""
 #publishDate: {{ .Date }}
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Intel Technology Journal"

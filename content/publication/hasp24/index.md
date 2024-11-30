@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Cryptographic Memory Tagging: Towards Stateless Integrity"
-authors: ["Bharath Namboothiry", "David Durham", "Christoph Dobraunig", "Michael LeMay"]
+authors: ["Bharath Namboothiry", "David Durham", "Christoph Dobraunig", admin]
 date: 2024-11-02
 doi: "10.1145/3696843.3696845"
 
@@ -10,10 +10,9 @@ doi: "10.1145/3696843.3696845"
 publishDate: 2024-10-30
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "13th International Workshop on Hardware and Architectural Support for Security and Privacy"

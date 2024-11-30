@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Sh@re: Negotiated audit in social networks"
-authors: ["Alejandro Gutierrez", "Apeksha Godiyal", "Matt Stockton", "Michael LeMay", "Carl A. Gunter", "Roy H. Campbell"]
+authors: ["Alejandro Gutierrez", "Apeksha Godiyal", "Matt Stockton", admin, "Carl A. Gunter", "Roy H. Campbell"]
 date: 2009-10-11
 doi: "https://ieeexplore.ieee.org/abstract/document/5779094"
 
@@ -10,10 +10,9 @@ doi: "https://ieeexplore.ieee.org/abstract/document/5779094"
 #publishDate: {{ .Date }}
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE International Conference on Systems, Man and Cybernetics"

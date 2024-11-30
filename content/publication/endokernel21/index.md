@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "The Endokernel: Fast, Secure, and Programmable Subprocess Virtualization"
-authors: ["Bumjin Im", "Fangfei Yang", "Chia-Che Tsai", "Michael LeMay", "Anjo Vahldiek-Oberwagner", "Nathan Dautenhahn"]
+authors: ["Bumjin Im", "Fangfei Yang", "Chia-Che Tsai", admin, "Anjo Vahldiek-Oberwagner", "Nathan Dautenhahn"]
 date: 2021-08-10
 doi: ""
 
@@ -10,10 +10,9 @@ doi: ""
 #publishDate: {{ .Date }}
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "arXiv"
@@ -26,7 +25,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

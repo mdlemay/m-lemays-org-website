@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Going beyond the Limits of SFI: Flexible and Secure Hardware-Assisted In-Process Isolation with HFI (distinguished paper award, Intel Hardware Security Academic Award honorable mention 🏆)"
-authors: ["Shravan Narayan", "Tal Garfinkel", "Mohammadkazem Taram", "Joey Rudek", "Daniel Moghimi", "Evan Johnson", "Chris Fallin", "Anjo Vahldiek-Oberwagner", "Michael LeMay", "Ravi Sahita", "Dean Tullsen", "Deian Stefan"]
+authors: ["Shravan Narayan", "Tal Garfinkel", "Mohammadkazem Taram", "Joey Rudek", "Daniel Moghimi", "Evan Johnson", "Chris Fallin", "Anjo Vahldiek-Oberwagner", admin, "Ravi Sahita", "Dean Tullsen", "Deian Stefan"]
 date: 2023-03-25
 doi: "10.1145/3582016.3582023"
 
@@ -10,10 +10,9 @@ doi: "10.1145/3582016.3582023"
 #publishDate: {{ .Date }}
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems"

@@ -2,17 +2,16 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Segue & ColorGuard: Optimizing SFI Performance and Scalability on Modern x86"
-authors: ["Shravan Narayan", "Tal Garfinkel", "Evan Johnson", "David Thien", "Joey Rudek", "Michael LeMay", "Anjo Vahldiek-Oberwagner", "Dean Tullsen", "Deian Stefan"]
+authors: ["Shravan Narayan", "Tal Garfinkel", "Evan Johnson", "David Thien", "Joey Rudek", admin, "Anjo Vahldiek-Oberwagner", "Dean Tullsen", "Deian Stefan"]
 date: 2022-12-12
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: {{ .Date }}
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "17th Workshop on Programming Languages and Analysis for Security"
@@ -25,7 +24,7 @@ summary: ""
 
 tags: []
 categories: []
-featured: true
+featured: false
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

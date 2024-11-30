@@ -15,9 +15,9 @@ sections:
       username: admin
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      #button:
+      #  text: Download CV
+      #  url: uploads/resume.pdf
     design:
       css_class: dark
       background:
@@ -31,6 +31,7 @@ sections:
           position: center
           parallax: false
   - block: markdown
+    demo: true
     content:
       title: '📚 My Research'
       subtitle: ''
@@ -76,9 +77,13 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Posts
       subtitle: ''
-      text: ''
+      text: |
+        I post a mix of professional content and personal content on my website, and I plan to categorize my posts accordingly. Separate RSS/Atom feeds are generated for each of those categories, and there is also a combined feed:
+        * [Professional feed](tags/professional/index.xml) - [archive](tags/professional/) (currently empty)
+        * [Personal feed](tags/personal/index.xml) - [archive](tags/personal/)
+        * [Combined feed](index.xml)
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)

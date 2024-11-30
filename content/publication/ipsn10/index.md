@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Diagnostic Powertracing for Sensor Node Failure Analysis"
-authors: ["Yong Yang", "Lu Su", "Mohammad Khan", "Michael LeMay", "Tarek Abdelzaher", "Jiawei Han"]
+authors: ["Yong Yang", "Lu Su", "Mohammad Khan", admin, "Tarek Abdelzaher", "Jiawei Han"]
 date: 2010-04-12
 doi: "https://ieeexplore.ieee.org/abstract/document/5779094"
 
@@ -10,10 +10,9 @@ doi: "https://ieeexplore.ieee.org/abstract/document/5779094"
 #publishDate: {{ .Date }}
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "10th ACM/IEEE International Conference on Information Processing in Sensor Networks"
