@@ -88,7 +88,7 @@ education:
 
 work:
   - position: Senior Staff Research Scientist
-    company: Intel Labs
+    company_name: Intel Labs
     company_url: 'https://www.intel.com/content/www/us/en/research/overview.html'
     company_logo: ''
     location: Oregon
@@ -164,13 +164,25 @@ awards:
 #    icon: coursera
 #    summary:
   - title: 'Intel Hardware Security Academic Award Honorable Mention'
-    url: https://www.cs.utexas.edu/news/2024/shravan-narayans-innovative-research-garners-multiple-prestigious-honors-hardware
+    url: 'https://www.cs.utexas.edu/news/2024/shravan-narayans-innovative-research-garners-multiple-prestigious-honors-hardware'
     date: '2024-08-15'
     awarder: 'Intel'
     icon: ''
     summary: 'For Hardware-assisted Fault Isolation (HFI)'
+  - title: 'IEEE MICRO Top Picks'
+    url: 'https://m.lemays.org/publication/microtoppicks24/'
+    date: '2024-07-09'
+    awarder: 'Institute of Electrical and Electronics Engineers (IEEE)'
+    icon: ''
+    summary: 'For "Hardware-Assisted Fault Isolation: Going Beyond the Limits of Software-Based Sandboxing"'
+  - title: 'ASPLOS Distinguished Paper'
+    url: 'https://m.lemays.org/publication/asplos23/'
+    date: '2023-03-25'
+    awarder: '28th ACM International Conference on Architectural Support for Programming Languages and Operating Systems'
+    icon: ''
+    summary: 'For "Going beyond the Limits of SFI: Flexible and Secure Hardware-Assisted In-Process Isolation with HFI"'
   - title: 'ACM Senior Member'
-    url: https://awards.acm.org/award_winners/lemay_0552118
+    url: 'https://awards.acm.org/award_winners/lemay_0552118'
     date: '2022-05-02'
     awarder: 'Association for Computing Machinery (ACM)'
     icon: ''
@@ -181,6 +193,12 @@ awards:
     awarder: 'Institute of Electrical and Electronics Engineers (IEEE)'
     icon: ''
     summary: 'Joined March 2013'
+  - title: 'HICSS Best Paper'
+    url: 'https://m.lemays.org/publication/hicss08/'
+    date: '2008-01-07'
+    awarder: '41st Hawaii International Conference on System Sciences'
+    icon: ''
+    summary: 'For "An Integrated Architecture for Demand Response Communications and Control"'
 ---
 
 ## About Me
