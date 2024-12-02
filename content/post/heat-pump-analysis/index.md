@@ -11,10 +11,11 @@ date: 2022-04-04
 ---
 ## Introduction
 
-We recently replaced our 30-year old air conditioner with an air-source heat
-pump. It ended up requiring several visits to ultimately get it working
-properly. I describe our experiences here in case others encounter similar
-difficulties. Perhaps you landed here by searching for a symptom that you are
+We attempted in 2022 to replace our 30-year old air conditioner with an air-source heat
+pump. Unfortunately, despite repeated service visits, it still does not operate
+properly. I describe our experiences here in case others with similar systems
+find this to be useful.
+Perhaps you landed here by searching for a symptom that you are
 currently observing in your HVAC system. Maybe this post will help you to ask
 questions of your HVAC service company that can lead to getting your HVAC system
 working more quickly than would otherwise be the case and be less likely to be
@@ -27,7 +28,7 @@ A-type evaporator coil with an N-type coil. The evaporator coil is the one that
 is placed inline with the duct work to transfer heat between interior air and
 the refrigerant. Our HVAC ducts have a 180-degree turn just above our upflow
 furnace and evaporator coil to direct the air down into ductwork in our
-crawlspace. That tight turn is a main contributing factor in the problems that I
+crawlspace. That tight turn seems to be a main contributing factor in the problems that I
 will describe below. The installers sought to improve airflow by inserting
 additional sheet metal in the cabinet to round out the corners, but that turned
 out to be inadequate. This added sheet metal is visible to the left of the new
@@ -94,10 +95,22 @@ the earlier pictures.
 
 ![Increased duct headroom above evaporator coil.](increased-headroom.png)
 
-After all that, the system finally provides adequate cooling! It still allows
+After all that, the system finally provides adequate cooling. It still allows
 the indoor temperature to creep up in the afternoon on the hottest days like the
 system that it replaced also allowed, but it seems that a much more substantial
 overhaul of our HVAC system would be needed if we wanted to avoid that.
 
-It remains to be seen how the system will perform when heating season descends
-once again. I'll update this post then.
+## Continued short cycling in heating mode
+
+When heating season descended once again, the system again exhibited short cycling,
+although it was at least able to run longer (e.g., 37 minutes in one instance)
+than it did prior to the system enhancements described above.
+
+An HVAC technician came up with a hypothesis that the return air duct was too constricted.
+He tested this by removing the filter and filter door, i.e., sucking in air from the garage
+directly. This allowed the system to run for 1.25 hours, and the technician thought that
+installing an additional return duct might provide even more airflow than that and
+allow continuous operation. That would have been an invasive change in our home layout,
+though. It also was not guaranteed to resolve the issue. So, we opted not to go that route.
+
+For now, we continue to rely on natural gas for our home heating.
