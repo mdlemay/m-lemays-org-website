@@ -59,6 +59,9 @@ sections:
     content:
       title: Issued Patents
       text: |
+        1. [12,093,182 (2024): Typed store buffers for hardening store forwarding](https://patents.google.com/patent/US12093182B2/en)
+        1. [12,050,701 (2024): Cryptographic isolation of memory compartments in a computing environment](https://patents.google.com/patent/US12050701B2/en)
+        1. [12,045,174 (2024): Tagless implicit integrity with multi-perspective pattern search](https://patents.google.com/patent/US12045174B2/en)
         1. [12,032,486 (2024): Transient side-channel aware architecture for cryptographic computing](https://patents.google.com/patent/US12032486B2/en)
         1. [12,019,733 (2024): Compartment isolation for load store forwarding](https://patents.google.com/patent/US12019733B2/en)
         1. [12,019,562 (2024): Cryptographic computing including enhanced cryptographic addresses](https://patents.google.com/patent/US12019562B2/en)
@@ -151,6 +154,10 @@ sections:
     content:
       title: Published Patent Applications
       text: |
+        1. [18/478,882: MEMORY SAFETY USING TAG CHECKING INSTRUCTIONS AND ISLANDS OF TAGS IN LINE WITH BUCKETED DATA](https://patents.google.com/patent/US20240354108A1/en)
+        1. [18/194,553: MULTI-KEY MEMORY ENCRYPTION PROVIDING EFFICIENT ISOLATION FOR MULTITHREADED PROCESSES](https://patents.google.com/patent/US20240333501A1/en)
+        1. [18/129,822: EFFICIENT CACHING AND QUEUEING FOR PER-ALLOCATION NON-REDUNDANT METADATA](https://patents.google.com/patent/US20240329861A1/en)
+        1. [18/147,510: FAST KEY ID SWITCHING VIA EXTENDED PAGING FOR CRYPTOGRAPHIC INTRA-PROCESS ISOLATION](https://patents.google.com/patent/US20240220423A1/en)
         1. [17/936,011: DETERMINISTIC ADJACENT OVERFLOW DETECTION FOR SLOTTED MEMORY POINTERS](https://patents.google.com/patent/US20240104013A1/en)
         1. [17/953,186: TEMPORAL INFORMATION LEAKAGE PROTECTION MECHANISM FOR CRYPTOGRAPHIC COMPUTING](https://patents.google.com/patent/US20240104027A1/en)
         1. [17/949,353: USER-LEVEL EXCEPTION-BASED INVOCATION OF SOFTWARE INSTRUMENTATION HANDLERS](https://patents.google.com/patent/US20240095063A1/en)
@@ -166,16 +173,13 @@ sections:
         1. [17/357,951: ZERO-REDUNDANCY TAG STORAGE FOR BUCKETED ALLOCATORS](https://patents.google.com/patent/US20220413715A1/en)
         1. [17/855,261: STATELESS AND LOW-OVERHEAD DOMAIN ISOLATION USING CRYPTOGRAPHIC COMPUTING](https://patents.google.com/patent/US20220343029A1/en)
         1. [17/854,814: CRYPTOGRAPHIC COMPUTING ISOLATION FOR MULTI-TENANCY AND SECURE SOFTWARE COMPONENTS](https://patents.google.com/patent/US20220335140A1/en)
-        1. [17/833,515: CRYPTOGRAPHIC ISOLATION OF MEMORY COMPARTMENTS IN A COMPUTING ENVIRONMENT](https://patents.google.com/patent/US20220300626A1/en)
         1. [17/357,963: REGION-BASED DETERMINISTIC MEMORY SAFETY](https://patents.google.com/patent/US20220261509A1/en)
-        1. [17/704,771: TAGLESS IMPLICIT INTEGRITY WITH MULTI-PERSPECTIVE PATTERN SEARCH](https://patents.google.com/patent/US20220222183A1/en)
         1. [17/696,330: RATCHET POINTERS TO ENFORCE BYTE-GRANULAR BOUNDS CHECKS ON MULTIPLE VIEWS OF AN OBJECT](https://patents.google.com/patent/US20220214881A1/en)
         1. [17/699,593: CRYPTOGRAPHIC DATA OBJECTS PAGE CONVERSION](https://patents.google.com/patent/US20220206960A1/en)
         1. [17/693,748: GENERATING ENCRYPTED CAPABILITIES WITHIN BOUNDS](https://patents.google.com/patent/US20220197638A1/en)
         1. [17/682,997: COMPILER-DIRECTED SELECTION OF OBJECTS FOR CAPABILITY PROTECTION](https://patents.google.com/patent/US20220179949A1/en)
         1. [17/561,828: PROCESS OBJECT RE-KEYING DURING PROCESS CREATION IN CRYPTOGRAPHIC COMPUTING](https://patents.google.com/patent/US20220123930A1/en)
         1. [17/559,385: DATA OBLIVIOUS CRYPTOGRAPHIC COMPUTING](https://patents.google.com/patent/US20220114285A1/en)
-        1. [17/561,817: TYPED STORE BUFFERS FOR HARDENING STORE FORWARDING](https://patents.google.com/patent/US20220114104A1/en)
         1. [17/314,349: TECHNOLOGY TO CONTROL SYSTEM CALL INVOCATIONS WITHIN A SINGLE ADDRESS SPACE](https://patents.google.com/patent/US20210264020A1/en)
         1. [16/862,022: MEMORY WRITE FOR OWNERSHIP ACCESS IN A CORE](https://patents.google.com/patent/US20200257827A1/en)
         1. [15/721,553: Installing and manipulating a secure virtual machine image through an untrusted hypervisor](https://patents.google.com/patent/US20190102539A1/en)
