@@ -102,7 +102,7 @@ work:
       [Control-Flow Enforcement Technology (CET)](https://www.forbes.com/sites/tonybradley/2020/06/17/intel-cet-raises-the-bar-for-malware-defense/) and
       [VT-Redirect Protection (VT-rp)](https://www.pcworld.com/article/619047/intels-12th-gen-vpro-chips-now-actively-fight-ransomware-supply-chain-attacks.html).
 
-      Principal Investigator for [Intel's project on Cryptographic Capability Computing (C3)](https://www.intel.com/content/www/us/en/newsroom/news/intel-and-ucsd-join-darpa-cyberdefense-program.html) in the [DARPA HARDEN program](https://www.darpa.mil/news-events/2022-10-13).
+      I was Principal Investigator for [Intel's project on Cryptographic Capability Computing (C3)](https://www.intel.com/content/www/us/en/newsroom/news/intel-and-ucsd-join-darpa-cyberdefense-program.html) in the [DARPA HARDEN program](https://www.darpa.mil/news-events/2022-10-13).
 
       I [designed](https://groups.google.com/a/chromium.org/g/memory-safety-dev/c/PDi1cvAvUGc)
       and [co-developed](https://groups.google.com/a/chromium.org/g/memory-safety-dev/c/1tYGORldm3w)
