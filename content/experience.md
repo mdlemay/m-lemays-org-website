@@ -40,7 +40,7 @@ sections:
       title: Mentoring
       text: |
         * 2023-present: Lead Intel liaison for [Allocamelus project at VUSec](https://www.vusec.net/publications/?bib=proj_allocamelus).
-        * Summer 2021, 2022, and 2023: Four mentees in [Research Experience for Undergraduates (REU) summer program](https://ece.princeton.edu/news/princeton-and-intel-join-forces-create-more-inclusive-research-career-pipeline).
+        * Summer 2021, 2022, and 2023: Four mentees in [Research Experience for Undergraduates (REU) summer program](https://seas-reu.princeton.edu/).
         * 2021-2024: Lead Intel liaison for [RARE-funded project at UCSD](https://www.intel.com/content/www/us/en/research/blogs/resilient-architectures-and-robust-electronics.html).
         * 2020-present: High schooler and author of introductory book on cryptography. [(TV interview)](https://www.kgw.com/article/news/local/beaverton-student-publishes-book-on-cryptography/283-b00c6f67-79c5-4d60-990a-6e43ae94f863).
         * 2019-2022: Intel liaison (eventually lead Intel liaison) for the DARPA-sponsored [SRC JUMP CONIX](https://conix.io) center.
