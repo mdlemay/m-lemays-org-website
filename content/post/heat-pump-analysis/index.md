@@ -114,3 +114,7 @@ allow continuous operation. That would have been an invasive change in our home 
 though. It also was not guaranteed to resolve the issue. So, we opted not to go that route.
 
 For now, we continue to rely on natural gas for our home heating.
+
+## Resources
+
+* [New York Times - Wirecutter: Underqualified Installers Are Giving Heat Pumps a Bad Name. Here’s How to Find a Competent Pro.](https://www.nytimes.com/wirecutter/reviews/heat-pump-installer)
