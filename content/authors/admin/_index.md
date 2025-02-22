@@ -102,7 +102,7 @@ work:
       [Control-Flow Enforcement Technology (CET)](https://www.forbes.com/sites/tonybradley/2020/06/17/intel-cet-raises-the-bar-for-malware-defense/) and
       [VT-Redirect Protection (VT-rp)](https://www.pcworld.com/article/619047/intels-12th-gen-vpro-chips-now-actively-fight-ransomware-supply-chain-attacks.html).
 
-      I was Principal Investigator for [Intel's project on Cryptographic Capability Computing (C3)](https://www.intel.com/content/www/us/en/newsroom/news/intel-and-ucsd-join-darpa-cyberdefense-program.html) in the [DARPA HARDEN program](https://www.darpa.mil/news-events/2022-10-13).
+      I was Principal Investigator for [Intel's project on Cryptographic Capability Computing (C3)](https://web.archive.org/web/20240917132526/https://www.intel.com/content/www/us/en/newsroom/news/intel-and-ucsd-join-darpa-cyberdefense-program.html) in the [DARPA HARDEN program](https://www.darpa.mil/news-events/2022-10-13).
 
       I [designed](https://groups.google.com/a/chromium.org/g/memory-safety-dev/c/PDi1cvAvUGc)
       and [co-developed](https://groups.google.com/a/chromium.org/g/memory-safety-dev/c/1tYGORldm3w)
@@ -113,6 +113,8 @@ work:
       [covered by ZDNet](https://www.zdnet.com/article/this-new-firefox-browser-feature-could-stop-zero-day-bugs-in-their-tracks/).
 
       I also researched approaches for scalable isolation, e.g., using [segmentation to accelerate WebAssembly](https://plas2022.github.io/files/pdf/SegueColorGuard.pdf) (upstreamed in [wasm2c](https://github.com/WebAssembly/wabt/pull/2395)).
+
+# DARPA HARDEN press release also archived at https://download.intel.com/newsroom/archive/2025/en-us-2023-02-01-intel-and-uc-san-diego-join-darpa-program-to-prevent-exploitation-of-computing-systems.pdf
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
