@@ -44,7 +44,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://dl.acm.org/doi/pdf/10.1145/3466752.3480076
 url_code:
 url_dataset:
 url_poster:
