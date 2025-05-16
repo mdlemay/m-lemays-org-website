@@ -14,6 +14,11 @@ sections:
     content:
       title: Issued Patents
       text: |
+        1. [12,282,567 (2025): Cryptographic computing using encrypted base addresses and used in multi-tenant environments](https://patents.google.com/patent/US12282567B2/en)
+        1. [12,277,234 (2025): Cryptographic computing in multitenant environments](https://patents.google.com/patent/US12277234B2/en)
+        1. [12,253,958 (2025): System for address mapping and translation protection](https://patents.google.com/patent/US12253958B2/en)
+        1. [12,216,922 (2025): Updating encrypted security context in stack pointers for exception handling and tight bounding of on-stack arguments](https://patents.google.com/patent/US12216922B2/en)
+        1. [12,182,317 (2024): Region-based deterministic memory safety](https://patents.google.com/patent/US12182317B2/en)
         1. [12,093,182 (2024): Typed store buffers for hardening store forwarding](https://patents.google.com/patent/US12093182B2/en)
         1. [12,050,701 (2024): Cryptographic isolation of memory compartments in a computing environment](https://patents.google.com/patent/US12050701B2/en)
         1. [12,045,174 (2024): Tagless implicit integrity with multi-perspective pattern search](https://patents.google.com/patent/US12045174B2/en)
