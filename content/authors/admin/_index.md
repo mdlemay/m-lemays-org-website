@@ -165,6 +165,12 @@ awards:
 #    awarder: Coursera
 #    icon: coursera
 #    summary:
+  - title: 'UWEC Alumni Distinguished Achievement Award'
+    url: 'https://www.uwec.edu/stories/eight-be-honored-alumni-association-awards'
+    date: '2025-05-16'
+    awarder: 'University of Wisconsin-Eau Claire Alumni Association'
+    icon: ''
+    summary: '"The Alumni Distinguished Achievement Award recognizes distinguished service to the community, state or nation in a manner that brings credit upon the award recipient and UW-Eau Claire."'
   - title: 'Intel Hardware Security Academic Award Honorable Mention'
     url: 'https://www.cs.utexas.edu/news/2024/shravan-narayans-innovative-research-garners-multiple-prestigious-honors-hardware'
     date: '2024-08-15'
