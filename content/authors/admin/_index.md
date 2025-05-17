@@ -166,6 +166,7 @@ awards:
 #    icon: coursera
 #    summary:
   - title: 'UWEC Alumni Distinguished Achievement Award'
+    # Awarded to 0.4% of graduates as of when it was awarded.
     url: 'https://www.uwec.edu/stories/eight-be-honored-alumni-association-awards'
     date: '2025-05-16'
     awarder: 'University of Wisconsin-Eau Claire Alumni Association'
