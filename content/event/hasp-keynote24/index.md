@@ -43,7 +43,7 @@ featured: true
 #    url: https://twitter.com/georgecushen
 #url_code: 'https://github.com'
 #url_pdf: ''
-url_slides: 'https://haspworkshop.org/2024/assets/Keynote%203.pdf'
+url_slides: 'https://haspworkshop.org/2024/slides/Keynote%203.pdf'
 #url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
